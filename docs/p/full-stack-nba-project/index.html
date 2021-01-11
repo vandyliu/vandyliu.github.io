@@ -1,0 +1,570 @@
+<!DOCTYPE html>
+<html lang="en-us">
+    <head><meta charset='utf-8'>
+<meta name='viewport' content='width=device-width, initial-scale=1'><meta name='description' content='How I created my NBA project that helped me get into Microsoft Garage'><title>Full Stack NBA Project</title>
+
+<link rel='canonical' href='vandyliu.github.io/p/full-stack-nba-project/'>
+
+<link rel="stylesheet" href="/vandyliu.github.io/scss/style.min.css"><meta property='og:title' content='Full Stack NBA Project'>
+<meta property='og:description' content='How I created my NBA project that helped me get into Microsoft Garage'>
+<meta property='og:url' content='vandyliu.github.io/p/full-stack-nba-project/'>
+<meta property='og:site_name' content='Vandy Liu'>
+<meta property='og:type' content='article'><meta property='article:section' content='Post' /><meta property='article:tag' content='nba' /><meta property='article:tag' content='coding' /><meta property='article:tag' content='project' /><meta property='article:tag' content='blog' /><meta property='article:published_time' content='2019-09-15T00:00:00&#43;00:00'/><meta property='article:modified_time' content='2019-09-15T00:00:00&#43;00:00'/><meta property='og:image' content='/vandyliu.github.io/p/full-stack-nba-project/bsq.gif' />
+<meta name="twitter:title" content="Full Stack NBA Project">
+<meta name="twitter:description" content="How I created my NBA project that helped me get into Microsoft Garage"><meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:image" content='/vandyliu.github.io/p/full-stack-nba-project/bsq.gif' />
+    </head>
+    <body class="">
+    <script>
+        (function() {
+            const colorSchemeKey = 'StackColorScheme';
+            if(!localStorage.getItem(colorSchemeKey)){
+                localStorage.setItem(colorSchemeKey, "auto");
+            }
+        })();
+    </script><script>
+    (function() {
+        const colorSchemeKey = 'StackColorScheme';
+        const colorSchemeItem = localStorage.getItem(colorSchemeKey);
+        const supportDarkMode = window.matchMedia('(prefers-color-scheme: dark)').matches === true;
+
+        if (colorSchemeItem == 'dark' || colorSchemeItem === 'auto' && supportDarkMode) {
+            
+
+            document.body.dataset.scheme = 'dark';
+        } else {
+            document.body.dataset.scheme = 'light';
+        }
+    })();
+</script><div class="container main-container flex on-phone--column extended article-page with-toolbar">
+            <aside class="sidebar left-sidebar sticky">
+    <button class="hamburger hamburger--spin" type="button" id="toggle-menu" aria-label="Toggle Menu">
+        <span class="hamburger-box">
+            <span class="hamburger-inner"></span>
+        </span>
+    </button>
+
+    <header class="site-info">
+        
+            <figure class="site-avatar">
+                
+                    <img src="/good.JPG" width="300" height="300" class="site-logo" loading="lazy" alt="Avatar">
+                
+
+                
+                    <span class="emoji">👨‍💻</span>
+                
+            </figure>
+        
+        <h1 class="site-name"><a href="vandyliu.github.io">Vandy Liu</a></h1>
+        <h2 class="site-description">A computer science student who enjoys doing stuff with computers and who needs to change this text in the future.</h2>
+    </header>
+
+    <ol class="menu" id="main-menu">
+        
+        
+        
+
+        <li >
+            <a href='/vandyliu.github.io/'>
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-home" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <polyline points="5 12 3 12 12 3 21 12 19 12" />
+  <path d="M5 12v7a2 2 0 0 0 2 2h10a2 2 0 0 0 2 -2v-7" />
+  <path d="M9 21v-6a2 2 0 0 1 2 -2h2a2 2 0 0 1 2 2v6" />
+</svg>
+
+
+
+                
+                <span>Home</span>
+            </a>
+        </li>
+        
+        
+
+        <li >
+            <a href='/vandyliu.github.io/about'>
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-user" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="12" cy="7" r="4" />
+  <path d="M6 21v-2a4 4 0 0 1 4 -4h4a4 4 0 0 1 4 4v2" />
+</svg>
+
+
+
+                
+                <span>About</span>
+            </a>
+        </li>
+        
+        
+
+        <li >
+            <a href='/vandyliu.github.io/projects'>
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-archive" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <rect x="3" y="4" width="18" height="4" rx="2" />
+  <path d="M5 8v10a2 2 0 0 0 2 2h10a2 2 0 0 0 2 -2v-10" />
+  <line x1="10" y1="12" x2="14" y2="12" />
+</svg>
+
+
+
+                
+                <span>Projects</span>
+            </a>
+        </li>
+        
+        
+
+        <li >
+            <a href='/vandyliu.github.io/resume'>
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-tag" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <path d="M11 3L20 12a1.5 1.5 0 0 1 0 2L14 20a1.5 1.5 0 0 1 -2 0L3 11v-4a4 4 0 0 1 4 -4h4" />
+  <circle cx="9" cy="9" r="2" />
+</svg>
+
+
+
+                
+                <span>Resume</span>
+            </a>
+        </li>
+        
+        
+
+        <li >
+            <a href='/vandyliu.github.io/search'>
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-search" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="10" cy="10" r="7" />
+  <line x1="21" y1="21" x2="15" y2="15" />
+</svg>
+
+
+
+                
+                <span>Search</span>
+            </a>
+        </li>
+        
+
+        
+            <li id="dark-mode-toggle">
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-toggle-left" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="8" cy="12" r="2" />
+  <rect x="2" y="6" width="20" height="12" rx="6" />
+</svg>
+
+
+
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-toggle-right" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="16" cy="12" r="2" />
+  <rect x="2" y="6" width="20" height="12" rx="6" />
+</svg>
+
+
+
+                <span>Dark Mode</span>
+            </li>
+        
+    </ol>
+</aside>
+
+            <main class="main full-width">
+    <div id="article-toolbar">
+        <a href="vandyliu.github.io" class="back-home">
+            <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-chevron-left" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <polyline points="15 6 9 12 15 18" />
+</svg>
+
+
+
+            <span>Back</span>
+        </a>
+    </div>
+
+    <article class="has-image main-article">
+    <header class="article-header">
+    <div class="article-details">
+    
+    <header class="article-category">
+        
+            <a href="vandyliu.github.io/categories/blog/" >
+                blog
+            </a>
+        
+            <a href="vandyliu.github.io/categories/project/" >
+                project
+            </a>
+        
+    </header>
+    
+
+    <h2 class="article-title">
+        <a href="vandyliu.github.io/p/full-stack-nba-project/">Full Stack NBA Project</a>
+    </h2>
+
+    
+    <h3 class="article-subtitle">
+        How I created my NBA project that helped me get into Microsoft Garage
+    </h3>
+    <footer class="article-time">
+        <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-clock" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="12" cy="12" r="9" />
+  <polyline points="12 7 12 12 15 15" />
+</svg>
+
+
+
+        <time class="article-time--published">Sep 15, 2019</time>
+    </footer></div>
+</header>
+
+    <section class="article-content">
+    <p><a class="link" href="../updating-my-nba-project" >November 2, 2019 - UPDATED BLOG POST</a></p>
+<p><figure style="flex-grow: 183; flex-basis: 439px">
+		<a href="/vandyliu.github.io/p/full-stack-nba-project/bsq.gif" data-size="1920x1048"><img src="/vandyliu.github.io/p/full-stack-nba-project/bsq.gif"
+				srcset="/vandyliu.github.io/p/full-stack-nba-project/bsq_hue8185e310d6f1127654e0f8b7be6d9b5_7860257_480x0_resize_box.gif 480w, /vandyliu.github.io/p/full-stack-nba-project/bsq_hue8185e310d6f1127654e0f8b7be6d9b5_7860257_1024x0_resize_box.gif 1024w"
+				width="1920"
+				height="1048"
+				loading="lazy"
+				alt="Website In Action">
+		</a>
+		
+		<figcaption>Website In Action</figcaption>
+		
+	</figure></p>
+<p><a class="link" href="https://vandyliu.com/boxscorequick"  target="_blank" rel="noopener"
+    >Click here to see it!</a></p>
+<p>BoxScoreQ is a website to keep you updated on NBA games and their box scores quickly. Whenever I come home from work or school, I open up and see what NBA games I should tune in to. However, I would always want to look at the box score first to see if there is a particular game that might interest me like a game where Derrick Rose currently has 41 points or a game where Klay Thompson is 6-7 from 3 point range. There wasn’t a quick place to find all the box scores in one place, which is why I made BoxScoreQ.</p>
+<p>After getting an internship at Amazon, I started slacking off and thought that I could land any internship with just my ordinary resume with Amazon on it. I applied to a bunch of places and mostly got no answers. I had one interview with a smaller company in Vancouver. They asked me about my projects and my best one was your classic “To-do app”. There were no intricate or complexities with it and I did very poorly on the interview. The interviewer asked me if I knew about REST APIs, React, or SQL and I had to sadly say no. After that interview, I decided I had to actually create something interesting and unique, so I started this.</p>
+<p>Some problems that I encountered along the way and how I handled them.</p>
+<ul>
+<li>The NBA stats website would block requests after a couple requests were made in quick succession. This meant that I could not get a lot of NBA box score data, which made the website useless. After some research, I learned I could use a proxy rotator to send requests to the NBA stats website through different proxies to bypass this issue. This made me run into another problem…</li>
+<li>This problem was that the proxies often failed. I would have to go through at least 10 before one worked, but I couldn’t grab every box score for each game on a day with the same proxy. So if there were 6 games on a day, I would probably have to go through 60 proxies to load all that data, and that takes a lot of time. People nowadays don’t have the patience for that, so what I did was everytime a date was processed, I added all that information into a MongoDB database. Requesting from the database is much faster and no proxy is needed.</li>
+<li>Originally I hosted it on Heroku, but because the proxies can take a long time and requests to Heroku are only given 30 seconds then most of the time, the requests would time out. I now host it on PythonAnywhere, which is super easy to use and not too expensive.</li>
+<li>How would I continually update the box score on today&rsquo;s date. Originally used APScheduler to periodically re-request data from the NBA every 5 minutes to keep the data as up to date as possible. PythonAnywhere does not allow for multiple processes but it does have a feature to periodically run scripts, which is where I host those scheduled jobs now</li>
+<li>It&rsquo;s possible for data to be incorrect or inconsistent due to the nature of networks, APIs and computers in general. I have another script that runs periodically that checks and verifies the data for a random date.</li>
+</ul>
+<p>Things I considered:</p>
+<ul>
+<li>
+<p>Frontend: Definitely wanted to do in React</p>
+<ul>
+<li>Industry standard</li>
+<li>Used Ant.design for layout and many components</li>
+<li>Didn&rsquo;t use Redux but hope to implement it (probably in another project though)</li>
+</ul>
+</li>
+<li>
+<p>Backend</p>
+<ul>
+<li>Wanted to interact with existing APIs
+<ul>
+<li>Discovered NBA_API (Python)</li>
+</ul>
+</li>
+<li>Decided to go with flask because it is easy to create Rest APIs with it</li>
+<li>Considered Django but didn’t want to create the Schemas and Models for a game</li>
+<li>For a given date, the process looks like this: Grabs all game IDs from NBA API, grabs the box score for each game ID, remove unnecessary data and organize the data into something more readable and useable, and finally adds it to the database</li>
+</ul>
+</li>
+<li>
+<p>Database: Using a SQL vs NoSQL database</p>
+<ul>
+<li>SQL
+<ul>
+<li>Used in big industries</li>
+<li>Takes more time to learn</li>
+<li>Should learn!!!!!!</li>
+</ul>
+</li>
+<li>NoSQL
+<ul>
+<li>Already knew it (had experience with Firebase at a hackathon)</li>
+<li>Easy to pick up and learn</li>
+<li>Had to restructure data a little to fit NoSQL better</li>
+<li>Not much use for relations anyways</li>
+<li>Cheaper</li>
+</ul>
+</li>
+<li>Went with NoSQL (MongoDB)
+<ul>
+<li>500MB for free</li>
+<li>One game is ~32kb</li>
+<li>1230 games in a year (Regular season) + 105 (playoffs)</li>
+<li>4 MB for a year</li>
+<li>Can store a lot of games</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<p>TechStack: HTML, Python, Flask, React, NBA_API, MongoDB</p>
+<p><a class="link" href="https://vandyliu.com/boxscorequick"  target="_blank" rel="noopener"
+    >Click here to see it!</a></p>
+
+</section>
+
+
+    <footer class="article-footer">
+    
+    <section class="article-tags">
+        
+            <a href="vandyliu.github.io/tags/nba/">nba</a>
+        
+            <a href="vandyliu.github.io/tags/coding/">coding</a>
+        
+            <a href="vandyliu.github.io/tags/project/">project</a>
+        
+            <a href="vandyliu.github.io/tags/blog/">blog</a>
+        
+    </section>
+
+
+    </footer>
+
+    
+</article>
+
+    <aside class="related-contents--wrapper">
+    
+    
+        <h2 class="section-title">Related contents</h2>
+        <div class="related-contents">
+            <div class="flex article-list--tile">
+                
+                    
+<article class="has-image">
+    <a href="vandyliu.github.io/p/updating-my-nba-project/">
+        
+        
+            <div class="article-image">
+                <img src="/vandyliu.github.io/p/updating-my-nba-project/bsqv2.7d44c3619b52c0e977adf63ebed23c9d_hu8d4eb701e2476e498e764b09908c84b6_4542105_250x150_fill_box_smart1.gif" 
+                        width="250" 
+                        height="150" 
+                        loading="lazy" 
+                        data-key="" 
+                        data-hash="md5-fUTDYZtSwOl3rfY&#43;vtI8nQ==">
+                
+            </div>
+        
+
+        <div class="article-details">
+            <h2 class="article-title">Updating my NBA Project</h2>
+        </div>
+    </a>
+</article>
+                
+                    
+<article class="has-image">
+    <a href="vandyliu.github.io/p/a-website-up/">
+        
+        
+            <div class="article-image">
+                <img src="/vandyliu.github.io/p/a-website-up/_hu509954822cd231fa6a3e3af97d767b1b_85434_d19d5f5a461ddb4d5f9201512aa0b943.png" 
+                        width="250" 
+                        height="150" 
+                        loading="lazy" 
+                        data-key="" 
+                        data-hash="md5-&#43;kpJ2Z43LthBPm5PMprzcA==">
+                
+            </div>
+        
+
+        <div class="article-details">
+            <h2 class="article-title">A website up</h2>
+        </div>
+    </a>
+</article>
+                
+                    
+<article class="has-image">
+    <a href="vandyliu.github.io/p/finally-coding-in-my-free-time/">
+        
+        
+            <div class="article-image">
+                <img src="/vandyliu.github.io/p/finally-coding-in-my-free-time/_hu5c7fb5dc5e94e0a735769d7fcf3b4d73_6256_335576a3e9b3e397da6062efbbfc330d.png" 
+                        width="250" 
+                        height="150" 
+                        loading="lazy" 
+                        data-key="" 
+                        data-hash="md5-bNlGw&#43;6Z1YNdrRjQm8ZOUw==">
+                
+            </div>
+        
+
+        <div class="article-details">
+            <h2 class="article-title">Finally Coding in My Free Time</h2>
+        </div>
+    </a>
+</article>
+                
+                    
+<article class="has-image">
+    <a href="vandyliu.github.io/p/soccer-games-and-python/">
+        
+        
+            <div class="article-image">
+                <img src="/vandyliu.github.io/p/soccer-games-and-python/soccer.a2a6f04dc9746f8ad24290b09dfc0036_hu770529a3b269481b00ebc1193dcc44df_46032_250x150_fill_q75_box_smart1.jpg" 
+                        width="250" 
+                        height="150" 
+                        loading="lazy" 
+                        data-key="" 
+                        data-hash="md5-oqbwTcl0b4rSQpCwnfwANg==">
+                
+            </div>
+        
+
+        <div class="article-details">
+            <h2 class="article-title">Soccer games and Python</h2>
+        </div>
+    </a>
+</article>
+                
+                    
+<article class="has-image">
+    <a href="vandyliu.github.io/p/covid-update/">
+        
+        
+            <div class="article-image">
+                <img src="/vandyliu.github.io/p/covid-update/splunk.49f7fc5514c5f5c973afffab73338626_huc09fd31ce9bb786d1041f70ffa59556f_768824_250x150_fill_q75_box_smart1.jpg" 
+                        width="250" 
+                        height="150" 
+                        loading="lazy" 
+                        data-key="" 
+                        data-hash="md5-Sff8VRTF9clzr/&#43;rczOGJg==">
+                
+            </div>
+        
+
+        <div class="article-details">
+            <h2 class="article-title">Covid Update</h2>
+        </div>
+    </a>
+</article>
+                
+            </div>
+        </div>
+    
+</aside>
+
+
+    
+        
+    
+
+    <footer class="site-footer">
+    <section class="copyright">
+        &copy; 
+        
+            2020 - 
+        
+        2021 Vandy Liu
+    </section>
+    
+    <section class="powerby">
+        
+        <a href="https://github.com/vandyliu" target="_blank" rel="noopener">GitHub</a> <br />    
+        <a href="https://linkedin.com/in/vandy-liu" target="_blank" rel="noopener">LinkedIn</a>
+        
+    </section>
+</footer>
+<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+
+    
+    <div class="pswp__bg"></div>
+
+    
+    <div class="pswp__scroll-wrap">
+
+        
+        <div class="pswp__container">
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+        </div>
+
+        
+        <div class="pswp__ui pswp__ui--hidden">
+
+            <div class="pswp__top-bar">
+
+                
+
+                <div class="pswp__counter"></div>
+
+                <button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
+
+                <button class="pswp__button pswp__button--share" title="Share"></button>
+
+                <button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
+
+                <button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+
+                
+                
+                <div class="pswp__preloader">
+                    <div class="pswp__preloader__icn">
+                        <div class="pswp__preloader__cut">
+                            <div class="pswp__preloader__donut"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+                <div class="pswp__share-tooltip"></div>
+            </div>
+
+            <button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)">
+            </button>
+
+            <button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)">
+            </button>
+
+            <div class="pswp__caption">
+                <div class="pswp__caption__center"></div>
+            </div>
+
+        </div>
+
+    </div>
+
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/photoswipe.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/photoswipe-ui-default.min.js"></script>
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/default-skin/default-skin.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/photoswipe.css">
+            </main>
+        </div>
+        <script src="https://cdn.jsdelivr.net/npm/node-vibrant@3.1.5/dist/vibrant.min.js"
+    integrity="sha256-5NovOZc4iwiAWTYIFiIM7DxKUXKWvpVEuMEPLzcm5/g=" crossorigin="anonymous"></script><script type="text/javascript" src="/vandyliu.github.io/ts/main.js" defer></script>
+<script>
+    (function () {
+        const customFont = document.createElement('link');
+        customFont.href = "https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap";
+
+        customFont.type = "text/css";
+        customFont.rel = "stylesheet";
+
+        document.head.appendChild(customFont);
+    }());
+</script>
+
+    </body>
+</html>

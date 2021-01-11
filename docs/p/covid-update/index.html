@@ -1,0 +1,490 @@
+<!DOCTYPE html>
+<html lang="en-us">
+    <head><meta charset='utf-8'>
+<meta name='viewport' content='width=device-width, initial-scale=1'><meta name='description' content='What I&#39;ve been up to for the past year'><title>Covid Update</title>
+
+<link rel='canonical' href='vandyliu.github.io/p/covid-update/'>
+
+<link rel="stylesheet" href="/vandyliu.github.io/scss/style.min.css"><meta property='og:title' content='Covid Update'>
+<meta property='og:description' content='What I&#39;ve been up to for the past year'>
+<meta property='og:url' content='vandyliu.github.io/p/covid-update/'>
+<meta property='og:site_name' content='Vandy Liu'>
+<meta property='og:type' content='article'><meta property='article:section' content='Post' /><meta property='article:tag' content='blog' /><meta property='article:tag' content='internship' /><meta property='article:published_time' content='2021-01-10T00:00:00&#43;00:00'/><meta property='article:modified_time' content='2021-01-10T00:00:00&#43;00:00'/><meta property='og:image' content='/vandyliu.github.io/p/covid-update/splunk.jpg' />
+<meta name="twitter:title" content="Covid Update">
+<meta name="twitter:description" content="What I&#39;ve been up to for the past year"><meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:image" content='/vandyliu.github.io/p/covid-update/splunk.jpg' />
+    </head>
+    <body class="">
+    <script>
+        (function() {
+            const colorSchemeKey = 'StackColorScheme';
+            if(!localStorage.getItem(colorSchemeKey)){
+                localStorage.setItem(colorSchemeKey, "auto");
+            }
+        })();
+    </script><script>
+    (function() {
+        const colorSchemeKey = 'StackColorScheme';
+        const colorSchemeItem = localStorage.getItem(colorSchemeKey);
+        const supportDarkMode = window.matchMedia('(prefers-color-scheme: dark)').matches === true;
+
+        if (colorSchemeItem == 'dark' || colorSchemeItem === 'auto' && supportDarkMode) {
+            
+
+            document.body.dataset.scheme = 'dark';
+        } else {
+            document.body.dataset.scheme = 'light';
+        }
+    })();
+</script><div class="container main-container flex on-phone--column extended article-page with-toolbar">
+            <aside class="sidebar left-sidebar sticky">
+    <button class="hamburger hamburger--spin" type="button" id="toggle-menu" aria-label="Toggle Menu">
+        <span class="hamburger-box">
+            <span class="hamburger-inner"></span>
+        </span>
+    </button>
+
+    <header class="site-info">
+        
+            <figure class="site-avatar">
+                
+                    <img src="/good.JPG" width="300" height="300" class="site-logo" loading="lazy" alt="Avatar">
+                
+
+                
+                    <span class="emoji">👨‍💻</span>
+                
+            </figure>
+        
+        <h1 class="site-name"><a href="vandyliu.github.io">Vandy Liu</a></h1>
+        <h2 class="site-description">A computer science student who enjoys doing stuff with computers and who needs to change this text in the future.</h2>
+    </header>
+
+    <ol class="menu" id="main-menu">
+        
+        
+        
+
+        <li >
+            <a href='/vandyliu.github.io/'>
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-home" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <polyline points="5 12 3 12 12 3 21 12 19 12" />
+  <path d="M5 12v7a2 2 0 0 0 2 2h10a2 2 0 0 0 2 -2v-7" />
+  <path d="M9 21v-6a2 2 0 0 1 2 -2h2a2 2 0 0 1 2 2v6" />
+</svg>
+
+
+
+                
+                <span>Home</span>
+            </a>
+        </li>
+        
+        
+
+        <li >
+            <a href='/vandyliu.github.io/about'>
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-user" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="12" cy="7" r="4" />
+  <path d="M6 21v-2a4 4 0 0 1 4 -4h4a4 4 0 0 1 4 4v2" />
+</svg>
+
+
+
+                
+                <span>About</span>
+            </a>
+        </li>
+        
+        
+
+        <li >
+            <a href='/vandyliu.github.io/projects'>
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-archive" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <rect x="3" y="4" width="18" height="4" rx="2" />
+  <path d="M5 8v10a2 2 0 0 0 2 2h10a2 2 0 0 0 2 -2v-10" />
+  <line x1="10" y1="12" x2="14" y2="12" />
+</svg>
+
+
+
+                
+                <span>Projects</span>
+            </a>
+        </li>
+        
+        
+
+        <li >
+            <a href='/vandyliu.github.io/resume'>
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-tag" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <path d="M11 3L20 12a1.5 1.5 0 0 1 0 2L14 20a1.5 1.5 0 0 1 -2 0L3 11v-4a4 4 0 0 1 4 -4h4" />
+  <circle cx="9" cy="9" r="2" />
+</svg>
+
+
+
+                
+                <span>Resume</span>
+            </a>
+        </li>
+        
+        
+
+        <li >
+            <a href='/vandyliu.github.io/search'>
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-search" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="10" cy="10" r="7" />
+  <line x1="21" y1="21" x2="15" y2="15" />
+</svg>
+
+
+
+                
+                <span>Search</span>
+            </a>
+        </li>
+        
+
+        
+            <li id="dark-mode-toggle">
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-toggle-left" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="8" cy="12" r="2" />
+  <rect x="2" y="6" width="20" height="12" rx="6" />
+</svg>
+
+
+
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-toggle-right" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="16" cy="12" r="2" />
+  <rect x="2" y="6" width="20" height="12" rx="6" />
+</svg>
+
+
+
+                <span>Dark Mode</span>
+            </li>
+        
+    </ol>
+</aside>
+
+            <main class="main full-width">
+    <div id="article-toolbar">
+        <a href="vandyliu.github.io" class="back-home">
+            <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-chevron-left" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <polyline points="15 6 9 12 15 18" />
+</svg>
+
+
+
+            <span>Back</span>
+        </a>
+    </div>
+
+    <article class="has-image main-article">
+    <header class="article-header">
+    <div class="article-details">
+    
+    <header class="article-category">
+        
+            <a href="vandyliu.github.io/categories/blog/" >
+                blog
+            </a>
+        
+            <a href="vandyliu.github.io/categories/internship/" >
+                internship
+            </a>
+        
+    </header>
+    
+
+    <h2 class="article-title">
+        <a href="vandyliu.github.io/p/covid-update/">Covid Update</a>
+    </h2>
+
+    
+    <h3 class="article-subtitle">
+        What I&#39;ve been up to for the past year
+    </h3>
+    <footer class="article-time">
+        <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-clock" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="12" cy="12" r="9" />
+  <polyline points="12 7 12 12 15 15" />
+</svg>
+
+
+
+        <time class="article-time--published">Jan 10, 2021</time>
+    </footer></div>
+</header>
+
+    <section class="article-content">
+    <p>A lot has happened since my last blog post. I have been neglecting making posts&hellip; but maybe this will be the start of them coming up again.</p>
+<p>After my Amazon internship, I had an internship at Splunk on the machine learning team. Cool thing about this was that I got a return offer to go the San Fransisco office which I was super excited about. With those two internships and some decent personal projects, I got an internship in the Microsoft Garage program. In the middle of that internship, covid-19 got real serious and we started working from home. You can check out the project I worked on <a class="link" href="https://aka.ms/getDSX"  target="_blank" rel="noopener"
+    >here</a>. Due to covid-19, my internship at Splunk was also remote. You can read about what I did on those internships in my resume.</p>
+<p>I also had the opportunity to work on some more cool personal projects. I realized that I enjoy coding in Python and can whip up things real quick so most of my personal projects gravatate to using Python. You can see more of those on my GitHub.</p>
+<p>I was looking forward to having a summer 2021 internship outside of Vancouver but that does not look likely either now. I really wanted to try out living on my own and see whether to stay local after graduation or move somewhere else. Depending on many factors, I may try to get an internship in the Fall.</p>
+<p>Also, I decided to revamp the website and give it a better look. This time I used Hugo instead of Jekyll, plus I have a lot more software engineering skills since then so it was much easier to get up and running and make some customizations that I wanted.</p>
+
+</section>
+
+
+    <footer class="article-footer">
+    
+    <section class="article-tags">
+        
+            <a href="vandyliu.github.io/tags/blog/">blog</a>
+        
+            <a href="vandyliu.github.io/tags/internship/">internship</a>
+        
+    </section>
+
+
+    </footer>
+
+    
+</article>
+
+    <aside class="related-contents--wrapper">
+    
+    
+        <h2 class="section-title">Related contents</h2>
+        <div class="related-contents">
+            <div class="flex article-list--tile">
+                
+                    
+<article class="has-image">
+    <a href="vandyliu.github.io/p/end-of-amazon-internship/">
+        
+        
+            <div class="article-image">
+                <img src="/vandyliu.github.io/p/end-of-amazon-internship/amazon2.b7e3fc5d75ad3e0caeabfc491217d52d_huce00e86a75590a241a92c1ccd861b169_1578978_250x150_fill_q75_box_smart1.jpg" 
+                        width="250" 
+                        height="150" 
+                        loading="lazy" 
+                        data-key="" 
+                        data-hash="md5-t&#43;P8XXWtPgyuq/xJEhfVLQ==">
+                
+            </div>
+        
+
+        <div class="article-details">
+            <h2 class="article-title">End of Amazon Internship</h2>
+        </div>
+    </a>
+</article>
+                
+                    
+<article class="has-image">
+    <a href="vandyliu.github.io/p/seattle-trip/">
+        
+        
+            <div class="article-image">
+                <img src="/vandyliu.github.io/p/seattle-trip/alexademo.20ce390e8e2e1149f31982808ad96a99_hud1ec546566d4f16b14c81b9d2f773215_1787638_250x150_fill_q75_box_smart1.jpg" 
+                        width="250" 
+                        height="150" 
+                        loading="lazy" 
+                        data-key="" 
+                        data-hash="md5-IM45Do4uEUnzGYKAitlqmQ==">
+                
+            </div>
+        
+
+        <div class="article-details">
+            <h2 class="article-title">Seattle Trip</h2>
+        </div>
+    </a>
+</article>
+                
+                    
+<article class="has-image">
+    <a href="vandyliu.github.io/p/big-update/">
+        
+        
+            <div class="article-image">
+                <img src="/vandyliu.github.io/p/big-update/amazon.8720f9e083a38cac6d1995f34b4aa3a8_hu27f7dc34c9db8fd2b063f3fba6be9864_225252_250x150_fill_q75_box_smart1.jpg" 
+                        width="250" 
+                        height="150" 
+                        loading="lazy" 
+                        data-key="" 
+                        data-hash="md5-hyD54IOjjKxtGZXzS0qjqA==">
+                
+            </div>
+        
+
+        <div class="article-details">
+            <h2 class="article-title">Big update</h2>
+        </div>
+    </a>
+</article>
+                
+                    
+<article class="has-image">
+    <a href="vandyliu.github.io/p/soccer-games-and-python/">
+        
+        
+            <div class="article-image">
+                <img src="/vandyliu.github.io/p/soccer-games-and-python/soccer.a2a6f04dc9746f8ad24290b09dfc0036_hu770529a3b269481b00ebc1193dcc44df_46032_250x150_fill_q75_box_smart1.jpg" 
+                        width="250" 
+                        height="150" 
+                        loading="lazy" 
+                        data-key="" 
+                        data-hash="md5-oqbwTcl0b4rSQpCwnfwANg==">
+                
+            </div>
+        
+
+        <div class="article-details">
+            <h2 class="article-title">Soccer games and Python</h2>
+        </div>
+    </a>
+</article>
+                
+                    
+<article class="has-image">
+    <a href="vandyliu.github.io/p/updating-my-nba-project/">
+        
+        
+            <div class="article-image">
+                <img src="/vandyliu.github.io/p/updating-my-nba-project/bsqv2.7d44c3619b52c0e977adf63ebed23c9d_hu8d4eb701e2476e498e764b09908c84b6_4542105_250x150_fill_box_smart1.gif" 
+                        width="250" 
+                        height="150" 
+                        loading="lazy" 
+                        data-key="" 
+                        data-hash="md5-fUTDYZtSwOl3rfY&#43;vtI8nQ==">
+                
+            </div>
+        
+
+        <div class="article-details">
+            <h2 class="article-title">Updating my NBA Project</h2>
+        </div>
+    </a>
+</article>
+                
+            </div>
+        </div>
+    
+</aside>
+
+
+    
+        
+    
+
+    <footer class="site-footer">
+    <section class="copyright">
+        &copy; 
+        
+            2020 - 
+        
+        2021 Vandy Liu
+    </section>
+    
+    <section class="powerby">
+        
+        <a href="https://github.com/vandyliu" target="_blank" rel="noopener">GitHub</a> <br />    
+        <a href="https://linkedin.com/in/vandy-liu" target="_blank" rel="noopener">LinkedIn</a>
+        
+    </section>
+</footer>
+<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+
+    
+    <div class="pswp__bg"></div>
+
+    
+    <div class="pswp__scroll-wrap">
+
+        
+        <div class="pswp__container">
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+        </div>
+
+        
+        <div class="pswp__ui pswp__ui--hidden">
+
+            <div class="pswp__top-bar">
+
+                
+
+                <div class="pswp__counter"></div>
+
+                <button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
+
+                <button class="pswp__button pswp__button--share" title="Share"></button>
+
+                <button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
+
+                <button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+
+                
+                
+                <div class="pswp__preloader">
+                    <div class="pswp__preloader__icn">
+                        <div class="pswp__preloader__cut">
+                            <div class="pswp__preloader__donut"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+                <div class="pswp__share-tooltip"></div>
+            </div>
+
+            <button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)">
+            </button>
+
+            <button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)">
+            </button>
+
+            <div class="pswp__caption">
+                <div class="pswp__caption__center"></div>
+            </div>
+
+        </div>
+
+    </div>
+
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/photoswipe.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/photoswipe-ui-default.min.js"></script>
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/default-skin/default-skin.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/photoswipe.css">
+            </main>
+        </div>
+        <script src="https://cdn.jsdelivr.net/npm/node-vibrant@3.1.5/dist/vibrant.min.js"
+    integrity="sha256-5NovOZc4iwiAWTYIFiIM7DxKUXKWvpVEuMEPLzcm5/g=" crossorigin="anonymous"></script><script type="text/javascript" src="/vandyliu.github.io/ts/main.js" defer></script>
+<script>
+    (function () {
+        const customFont = document.createElement('link');
+        customFont.href = "https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap";
+
+        customFont.type = "text/css";
+        customFont.rel = "stylesheet";
+
+        document.head.appendChild(customFont);
+    }());
+</script>
+
+    </body>
+</html>

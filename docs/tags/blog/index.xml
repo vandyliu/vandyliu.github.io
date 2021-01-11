@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>blog on Vandy Liu</title>
+    <link>vandyliu.github.io/tags/blog/</link>
+    <description>Recent content in blog on Vandy Liu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 10 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="vandyliu.github.io/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Covid Update</title>
+      <link>vandyliu.github.io/p/covid-update/</link>
+      <pubDate>Sun, 10 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>vandyliu.github.io/p/covid-update/</guid>
+      <description>A lot has happened since my last blog post. I have been neglecting making posts&amp;hellip; but maybe this will be the start of them coming up again.
+After my Amazon internship, I had an internship at Splunk on the machine learning team. Cool thing about this was that I got a return offer to go the San Fransisco office which I was super excited about. With those two internships and some decent personal projects, I got an internship in the Microsoft Garage program.</description>
+    </item>
+    
+    <item>
+      <title>Soccer games and Python</title>
+      <link>vandyliu.github.io/p/soccer-games-and-python/</link>
+      <pubDate>Sun, 08 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>vandyliu.github.io/p/soccer-games-and-python/</guid>
+      <description>I’ve been playing soccer for the past 15 years of my life. I love everything about the game and I enjoy playing it a ton. After high school ended, there wasn’t much opportunity for me to play and I got caught up in a lot of other things like school and work. However, I started dropping in at this indoor soccer event every Thursday. Because I missed the registration date, I am not a registered player and can only play if there aren’t enough registered players willing to play that day.</description>
+    </item>
+    
+    <item>
+      <title>Updating my NBA Project</title>
+      <link>vandyliu.github.io/p/updating-my-nba-project/</link>
+      <pubDate>Sat, 02 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>vandyliu.github.io/p/updating-my-nba-project/</guid>
+      <description>Website In Action 
+Click here to see it!
+If you haven&amp;rsquo;t seen my other blog post, make sure to read it first.
+In the past summer, when I was happy with my project, I decided to host it on heroku and github pages and leave it be until the season started. Once the pre-season started, I noticed a major problem: the boxscores did not update until the game finished.</description>
+    </item>
+    
+    <item>
+      <title>Full Stack NBA Project</title>
+      <link>vandyliu.github.io/p/full-stack-nba-project/</link>
+      <pubDate>Sun, 15 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>vandyliu.github.io/p/full-stack-nba-project/</guid>
+      <description>November 2, 2019 - UPDATED BLOG POST
+ Website In Action 
+Click here to see it!
+BoxScoreQ is a website to keep you updated on NBA games and their box scores quickly. Whenever I come home from work or school, I open up and see what NBA games I should tune in to. However, I would always want to look at the box score first to see if there is a particular game that might interest me like a game where Derrick Rose currently has 41 points or a game where Klay Thompson is 6-7 from 3 point range.</description>
+    </item>
+    
+    <item>
+      <title>End of Amazon Internship</title>
+      <link>vandyliu.github.io/p/end-of-amazon-internship/</link>
+      <pubDate>Tue, 20 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>vandyliu.github.io/p/end-of-amazon-internship/</guid>
+      <description>Amazon  Amazon Vancouver
+This past week was my last week as an intern at Amazon. It was an incredible experience, where I learned not only a lot about programming and code, but about the deployment cycle, what work is like, and so many more things.
+What I worked on
+Unfortunately, I cannot go into much detail about what I worked on this Summer. I will say that it was an internal developer tool that is frequently used by engineers.</description>
+    </item>
+    
+    <item>
+      <title>Seattle Trip</title>
+      <link>vandyliu.github.io/p/seattle-trip/</link>
+      <pubDate>Mon, 22 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>vandyliu.github.io/p/seattle-trip/</guid>
+      <description>Hackathon  Our hackathon presentation
+This past week Amazon flew me and all the other Amazon Future Engineer (AFE) interns out to Seattle for a hackathon and a music festival. This would be the second hackathon I&amp;rsquo;ve been to. The first one I did was XD Hacks at UBC. At this hackathon, the challenge was to make an Alexa skill for one of three non-profit organizations. Our team built an Alexa skill for the Boys and Girls Club of Washington.</description>
+    </item>
+    
+    <item>
+      <title>Big update</title>
+      <link>vandyliu.github.io/p/big-update/</link>
+      <pubDate>Thu, 20 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>vandyliu.github.io/p/big-update/</guid>
+      <description>Amazon  My desk
+Hello everyone that reads this! (Probably around 1)
+I know I haven&amp;rsquo;t updated this in a while. I&amp;rsquo;ve been pretty busy with school and trying to learn new things. Over second semester, I applied to one summer internship after my friend Josh told me to because there were internships specific for freshmen and sophmores. I googled &amp;lsquo;sophmore internships&amp;rsquo; and found one by Amazon. I applied in February and thought nothing of it.</description>
+    </item>
+    
+    <item>
+      <title>A website up</title>
+      <link>vandyliu.github.io/p/a-website-up/</link>
+      <pubDate>Sat, 26 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>vandyliu.github.io/p/a-website-up/</guid>
+      <description>For the past three months, I&amp;rsquo;ve been trying to make a website with Jekyll by taking this repository and making it my own. Unluckily for me, it never worked out. Unfortunately, I don&amp;rsquo;t have enough knowledge about Ruby or Jekyll to figure out how to solve the issues I was having even though the webpage loaded well locally.
+Because of my stubbornness, I never wanted to give up on it but I think it is finally the time.</description>
+    </item>
+    
+    <item>
+      <title>Finally Coding in My Free Time</title>
+      <link>vandyliu.github.io/p/finally-coding-in-my-free-time/</link>
+      <pubDate>Tue, 08 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>vandyliu.github.io/p/finally-coding-in-my-free-time/</guid>
+      <description>Welcome!!! :) Hello world, this is my first blog post.
+I&amp;rsquo;ve always been the type of kid to focus solely on school and my grades. It was always hard for me to learn stuff outside of school, even if it interested me. Like most kids, I had phases where I wanted to learn things like the guitar or play ice hockey. I would take up a few lessons and then quit because I never wanted to put in the time to learn.</description>
+    </item>
+    
+  </channel>
+</rss>

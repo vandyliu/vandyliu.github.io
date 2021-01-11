@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>soccer on Vandy Liu</title>
+    <link>https://vandyliu.com/tags/soccer/</link>
+    <description>Recent content in soccer on Vandy Liu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 08 Mar 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://vandyliu.com/tags/soccer/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Soccer games and Python</title>
+      <link>https://vandyliu.com/p/soccer-games-and-python/</link>
+      <pubDate>Sun, 08 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://vandyliu.com/p/soccer-games-and-python/</guid>
+      <description>I’ve been playing soccer for the past 15 years of my life. I love everything about the game and I enjoy playing it a ton. After high school ended, there wasn’t much opportunity for me to play and I got caught up in a lot of other things like school and work. However, I started dropping in at this indoor soccer event every Thursday. Because I missed the registration date, I am not a registered player and can only play if there aren’t enough registered players willing to play that day.</description>
+    </item>
+    
+  </channel>
+</rss>

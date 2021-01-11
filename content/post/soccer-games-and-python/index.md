@@ -7,7 +7,10 @@ categories = ["blog", "project", "python"]
 tags = [
  "blog",
  "project",
- "python"
+ "python",
+ "soccer",
+ "docker",
+ "aws"
 ]
 series = []
 aliases = []

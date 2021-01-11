@@ -8,12 +8,16 @@
     <language>en-us</language>
     <lastBuildDate>Sun, 10 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://vandyliu.com/project/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>TODO</title>
-      <link>https://vandyliu.com/proj/todo/</link>
+      <title>Projects</title>
+      <link>https://vandyliu.com/proj/projects/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://vandyliu.com/proj/todo/</guid>
-      <description>Todo</description>
+      <guid>https://vandyliu.com/proj/projects/</guid>
+      <description>More will be added. Just haven&amp;rsquo;t gotten to writing a small write up for quite a few.
+Box Score Quick  bsq 
+Languages/Technologies: React, Python, Flask, MongoDB (previously)
+For NBA fanatics, who want to watch interesting games or just get real-time box scores quick and easy. All box scores for every game all on a single page. Read more here and here for an update.
+Priority Task Manager  task</description>
     </item>
     
   </channel>

@@ -1,0 +1,14 @@
+{{ define "body-class" }}template-search{{ end }}
+{{ define "head" }}
+    {{- with .OutputFormats.Get "json" -}} 
+        <link rel="preload" href="{{ .Permalink }}" as="fetch" crossorigin="anonymous">
+    {{- end -}}
+{{ end }}
+{{ define "main" }}
+<object data="https://vandyliu.com/Resume.pdf" type="application/pdf" width="900px" height="1150px">
+    <embed src="https://vandyliu.com/Resume.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://vandyliu.com/Resume.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
+{{ partialCached "footer/footer" . }}
+{{ end }}

@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>internship on Vandy Liu</title>
-    <link>https://vandyliu.com/hugo-website/tags/internship/</link>
+    <link>https://vandyliu.com/tags/internship/</link>
     <description>Recent content in internship on Vandy Liu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 10 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://vandyliu.com/hugo-website/tags/internship/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 10 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://vandyliu.com/tags/internship/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Covid Update</title>
-      <link>https://vandyliu.com/hugo-website/p/covid-update/</link>
+      <link>https://vandyliu.com/p/covid-update/</link>
       <pubDate>Sun, 10 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://vandyliu.com/hugo-website/p/covid-update/</guid>
+      <guid>https://vandyliu.com/p/covid-update/</guid>
       <description>A lot has happened since my last blog post. I have been neglecting making posts&amp;hellip; but maybe this will be the start of them coming up again.
 After my Amazon internship, I had an internship at Splunk on the machine learning team. Cool thing about this was that I got a return offer to go the San Fransisco office which I was super excited about. With those two internships and some decent personal projects, I got an internship in the Microsoft Garage program.</description>
     </item>
     
     <item>
       <title>End of Amazon Internship</title>
-      <link>https://vandyliu.com/hugo-website/p/end-of-amazon-internship/</link>
+      <link>https://vandyliu.com/p/end-of-amazon-internship/</link>
       <pubDate>Tue, 20 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://vandyliu.com/hugo-website/p/end-of-amazon-internship/</guid>
+      <guid>https://vandyliu.com/p/end-of-amazon-internship/</guid>
       <description>Amazon  Amazon Vancouver
 This past week was my last week as an intern at Amazon. It was an incredible experience, where I learned not only a lot about programming and code, but about the deployment cycle, what work is like, and so many more things.
 What I worked on
@@ -31,20 +31,20 @@ Unfortunately, I cannot go into much detail about what I worked on this Summer. 
     
     <item>
       <title>Seattle Trip</title>
-      <link>https://vandyliu.com/hugo-website/p/seattle-trip/</link>
+      <link>https://vandyliu.com/p/seattle-trip/</link>
       <pubDate>Mon, 22 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://vandyliu.com/hugo-website/p/seattle-trip/</guid>
+      <guid>https://vandyliu.com/p/seattle-trip/</guid>
       <description>Hackathon  Our hackathon presentation
 This past week Amazon flew me and all the other Amazon Future Engineer (AFE) interns out to Seattle for a hackathon and a music festival. This would be the second hackathon I&amp;rsquo;ve been to. The first one I did was XD Hacks at UBC. At this hackathon, the challenge was to make an Alexa skill for one of three non-profit organizations. Our team built an Alexa skill for the Boys and Girls Club of Washington.</description>
     </item>
     
     <item>
       <title>Big update</title>
-      <link>https://vandyliu.com/hugo-website/p/big-update/</link>
+      <link>https://vandyliu.com/p/big-update/</link>
       <pubDate>Thu, 20 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://vandyliu.com/hugo-website/p/big-update/</guid>
+      <guid>https://vandyliu.com/p/big-update/</guid>
       <description>Amazon  My desk
 Hello everyone that reads this! (Probably around 1)
 I know I haven&amp;rsquo;t updated this in a while. I&amp;rsquo;ve been pretty busy with school and trying to learn new things. Over second semester, I applied to one summer internship after my friend Josh told me to because there were internships specific for freshmen and sophmores. I googled &amp;lsquo;sophmore internships&amp;rsquo; and found one by Amazon. I applied in February and thought nothing of it.</description>

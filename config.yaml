@@ -1,4 +1,4 @@
-baseurl: https://vandyliu.com/hugo-website
+baseurl: https://vandyliu.com
 languageCode: en-us
 theme: hugo-theme-stack
 paginate: 10
@@ -40,7 +40,7 @@ params:
         subtitle: A computer science student who enjoys doing stuff with computers and who needs to change this text in the future.
         avatar:
             local: false
-            src: images/me.jpg
+            src: "https://vandyliu.com/images/me.jpg"
 
     article:
         math: false

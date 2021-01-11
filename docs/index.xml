@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Vandy Liu</title>
-        <link>https://vandyliu.com/hugo-website/</link>
+        <link>https://vandyliu.com/</link>
         <description>Recent content on Vandy Liu</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Sun, 10 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://vandyliu.com/hugo-website/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 10 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://vandyliu.com/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Covid Update</title>
-        <link>https://vandyliu.com/hugo-website/p/covid-update/</link>
+        <link>https://vandyliu.com/p/covid-update/</link>
         <pubDate>Sun, 10 Jan 2021 00:00:00 +0000</pubDate>
         
-        <guid>https://vandyliu.com/hugo-website/p/covid-update/</guid>
-        <description>&lt;img src="https://vandyliu.com/hugo-website/p/covid-update/splunk.jpg" alt="Featured image of post Covid Update" /&gt;&lt;p&gt;A lot has happened since my last blog post. I have been neglecting making posts&amp;hellip; but maybe this will be the start of them coming up again.&lt;/p&gt;
+        <guid>https://vandyliu.com/p/covid-update/</guid>
+        <description>&lt;img src="https://vandyliu.com/p/covid-update/splunk.jpg" alt="Featured image of post Covid Update" /&gt;&lt;p&gt;A lot has happened since my last blog post. I have been neglecting making posts&amp;hellip; but maybe this will be the start of them coming up again.&lt;/p&gt;
 &lt;p&gt;After my Amazon internship, I had an internship at Splunk on the machine learning team. Cool thing about this was that I got a return offer to go the San Fransisco office which I was super excited about. With those two internships and some decent personal projects, I got an internship in the Microsoft Garage program. In the middle of that internship, covid-19 got real serious and we started working from home. You can check out the project I worked on &lt;a class=&#34;link&#34; href=&#34;https://aka.ms/getDSX&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;here&lt;/a&gt;. Due to covid-19, my internship at Splunk was also remote. You can read about what I did on those internships in my resume.&lt;/p&gt;
 &lt;p&gt;I also had the opportunity to work on some more cool personal projects. I realized that I enjoy coding in Python and can whip up things real quick so most of my personal projects gravatate to using Python. You can see more of those on my GitHub.&lt;/p&gt;
@@ -22,11 +22,11 @@
         </item>
         <item>
         <title>Soccer games and Python</title>
-        <link>https://vandyliu.com/hugo-website/p/soccer-games-and-python/</link>
+        <link>https://vandyliu.com/p/soccer-games-and-python/</link>
         <pubDate>Sun, 08 Mar 2020 00:00:00 +0000</pubDate>
         
-        <guid>https://vandyliu.com/hugo-website/p/soccer-games-and-python/</guid>
-        <description>&lt;img src="https://vandyliu.com/hugo-website/p/soccer-games-and-python/soccer.jpg" alt="Featured image of post Soccer games and Python" /&gt;&lt;p&gt;I’ve been playing soccer for the past 15 years of my life. I love everything about the game and I enjoy playing it a ton. After high school ended, there wasn’t much opportunity for me to play and I got caught up in a lot of other things like school and work. However, I started dropping in at this indoor soccer event every Thursday. Because I missed the registration date, I am not a registered player and can only play if there aren’t enough registered players willing to play that day. But, there’s also other people like me, who are frequent drop-ins who also want to play. So how does the organizer decide which drop-ins can play and which ones must sit out that week? He does it on a first-come-first-serve basis on whoever replies quickest to his weekly message on WhatsApp.&lt;/p&gt;
+        <guid>https://vandyliu.com/p/soccer-games-and-python/</guid>
+        <description>&lt;img src="https://vandyliu.com/p/soccer-games-and-python/soccer.jpg" alt="Featured image of post Soccer games and Python" /&gt;&lt;p&gt;I’ve been playing soccer for the past 15 years of my life. I love everything about the game and I enjoy playing it a ton. After high school ended, there wasn’t much opportunity for me to play and I got caught up in a lot of other things like school and work. However, I started dropping in at this indoor soccer event every Thursday. Because I missed the registration date, I am not a registered player and can only play if there aren’t enough registered players willing to play that day. But, there’s also other people like me, who are frequent drop-ins who also want to play. So how does the organizer decide which drop-ins can play and which ones must sit out that week? He does it on a first-come-first-serve basis on whoever replies quickest to his weekly message on WhatsApp.&lt;/p&gt;
 &lt;p&gt;I’m usually pretty fast but the organizer doesn’t do it at a set time every week. It can be on Wednesday night, Thursday morning or even Thursday afternoon and I can’t always be checking my phone waiting for that notification. Usually, I get in but this past week, I didn’t by one spot. One drop-in replied quicker by 1 minute and I was only 4 minutes off of the official message… so I decided to build an app that will instantly reply to it so that I am always or close to always first on the list.&lt;/p&gt;
 &lt;p&gt;So I knew what I had to do: find a WhatsApp API that can receive and send messages. I also realized I could use natural language processing (NLP) to see if the message is the official announcement message.&lt;/p&gt;
 &lt;p&gt;I only ever use WhatsApp for this soccer event, so I didn’t know about its features and why it is useful. The most important thing it does is end2end encryption. This makes it tough to access my messages through a service other than my phone. Nevertheless, the first thing I tried looking for was a WhatsApp API. I found out that Twilio has a nice API for WhatsApp but after playing around with it, I realized it was only for businesses and you had to pay to use it so I had to scrap that. Next, I looked on Github for WhatsApp APIs and found three promising repos.
@@ -103,13 +103,13 @@ It worked the week after and then soccer is now cancelled due to the coronavirus
         </item>
         <item>
         <title>Updating my NBA Project</title>
-        <link>https://vandyliu.com/hugo-website/p/updating-my-nba-project/</link>
+        <link>https://vandyliu.com/p/updating-my-nba-project/</link>
         <pubDate>Sat, 02 Nov 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://vandyliu.com/hugo-website/p/updating-my-nba-project/</guid>
-        <description>&lt;img src="https://vandyliu.com/hugo-website/p/updating-my-nba-project/bsqv2.gif" alt="Featured image of post Updating my NBA Project" /&gt;&lt;p&gt;&lt;figure style=&#34;flex-grow: 204; flex-basis: 491px&#34;&gt;
-		&lt;a href=&#34;https://vandyliu.com/hugo-website/hugo-website/p/updating-my-nba-project/bsqv2.gif&#34; data-size=&#34;1920x937&#34;&gt;&lt;img src=&#34;https://vandyliu.com/hugo-website/hugo-website/p/updating-my-nba-project/bsqv2.gif&#34;
-				srcset=&#34;https://vandyliu.com/hugo-website/hugo-website/p/updating-my-nba-project/bsqv2_hu8d4eb701e2476e498e764b09908c84b6_4542105_480x0_resize_box.gif 480w, https://vandyliu.com/hugo-website/hugo-website/p/updating-my-nba-project/bsqv2_hu8d4eb701e2476e498e764b09908c84b6_4542105_1024x0_resize_box.gif 1024w&#34;
+        <guid>https://vandyliu.com/p/updating-my-nba-project/</guid>
+        <description>&lt;img src="https://vandyliu.com/p/updating-my-nba-project/bsqv2.gif" alt="Featured image of post Updating my NBA Project" /&gt;&lt;p&gt;&lt;figure style=&#34;flex-grow: 204; flex-basis: 491px&#34;&gt;
+		&lt;a href=&#34;https://vandyliu.com/p/updating-my-nba-project/bsqv2.gif&#34; data-size=&#34;1920x937&#34;&gt;&lt;img src=&#34;https://vandyliu.com/p/updating-my-nba-project/bsqv2.gif&#34;
+				srcset=&#34;https://vandyliu.com/p/updating-my-nba-project/bsqv2_hu8d4eb701e2476e498e764b09908c84b6_4542105_480x0_resize_box.gif 480w, https://vandyliu.com/p/updating-my-nba-project/bsqv2_hu8d4eb701e2476e498e764b09908c84b6_4542105_1024x0_resize_box.gif 1024w&#34;
 				width=&#34;1920&#34;
 				height=&#34;937&#34;
 				loading=&#34;lazy&#34;
@@ -155,14 +155,14 @@ It worked the week after and then soccer is now cancelled due to the coronavirus
         </item>
         <item>
         <title>Full Stack NBA Project</title>
-        <link>https://vandyliu.com/hugo-website/p/full-stack-nba-project/</link>
+        <link>https://vandyliu.com/p/full-stack-nba-project/</link>
         <pubDate>Sun, 15 Sep 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://vandyliu.com/hugo-website/p/full-stack-nba-project/</guid>
-        <description>&lt;img src="https://vandyliu.com/hugo-website/p/full-stack-nba-project/bsq.gif" alt="Featured image of post Full Stack NBA Project" /&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;../updating-my-nba-project&#34; &gt;November 2, 2019 - UPDATED BLOG POST&lt;/a&gt;&lt;/p&gt;
+        <guid>https://vandyliu.com/p/full-stack-nba-project/</guid>
+        <description>&lt;img src="https://vandyliu.com/p/full-stack-nba-project/bsq.gif" alt="Featured image of post Full Stack NBA Project" /&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;../updating-my-nba-project&#34; &gt;November 2, 2019 - UPDATED BLOG POST&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;figure style=&#34;flex-grow: 183; flex-basis: 439px&#34;&gt;
-		&lt;a href=&#34;https://vandyliu.com/hugo-website/hugo-website/p/full-stack-nba-project/bsq.gif&#34; data-size=&#34;1920x1048&#34;&gt;&lt;img src=&#34;https://vandyliu.com/hugo-website/hugo-website/p/full-stack-nba-project/bsq.gif&#34;
-				srcset=&#34;https://vandyliu.com/hugo-website/hugo-website/p/full-stack-nba-project/bsq_hue8185e310d6f1127654e0f8b7be6d9b5_7860257_480x0_resize_box.gif 480w, https://vandyliu.com/hugo-website/hugo-website/p/full-stack-nba-project/bsq_hue8185e310d6f1127654e0f8b7be6d9b5_7860257_1024x0_resize_box.gif 1024w&#34;
+		&lt;a href=&#34;https://vandyliu.com/p/full-stack-nba-project/bsq.gif&#34; data-size=&#34;1920x1048&#34;&gt;&lt;img src=&#34;https://vandyliu.com/p/full-stack-nba-project/bsq.gif&#34;
+				srcset=&#34;https://vandyliu.com/p/full-stack-nba-project/bsq_hue8185e310d6f1127654e0f8b7be6d9b5_7860257_480x0_resize_box.gif 480w, https://vandyliu.com/p/full-stack-nba-project/bsq_hue8185e310d6f1127654e0f8b7be6d9b5_7860257_1024x0_resize_box.gif 1024w&#34;
 				width=&#34;1920&#34;
 				height=&#34;1048&#34;
 				loading=&#34;lazy&#34;
@@ -245,13 +245,13 @@ It worked the week after and then soccer is now cancelled due to the coronavirus
         </item>
         <item>
         <title>End of Amazon Internship</title>
-        <link>https://vandyliu.com/hugo-website/p/end-of-amazon-internship/</link>
+        <link>https://vandyliu.com/p/end-of-amazon-internship/</link>
         <pubDate>Tue, 20 Aug 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://vandyliu.com/hugo-website/p/end-of-amazon-internship/</guid>
-        <description>&lt;img src="https://vandyliu.com/hugo-website/p/end-of-amazon-internship/amazon2.jpg" alt="Featured image of post End of Amazon Internship" /&gt;&lt;p&gt;&lt;figure style=&#34;flex-grow: 133; flex-basis: 320px&#34;&gt;
-		&lt;a href=&#34;https://vandyliu.com/hugo-website/hugo-website/p/end-of-amazon-internship/amazon2.jpg&#34; data-size=&#34;4032x3024&#34;&gt;&lt;img src=&#34;https://vandyliu.com/hugo-website/hugo-website/p/end-of-amazon-internship/amazon2.jpg&#34;
-				srcset=&#34;https://vandyliu.com/hugo-website/hugo-website/p/end-of-amazon-internship/amazon2_huce00e86a75590a241a92c1ccd861b169_1578978_480x0_resize_q75_box.jpg 480w, https://vandyliu.com/hugo-website/hugo-website/p/end-of-amazon-internship/amazon2_huce00e86a75590a241a92c1ccd861b169_1578978_1024x0_resize_q75_box.jpg 1024w&#34;
+        <guid>https://vandyliu.com/p/end-of-amazon-internship/</guid>
+        <description>&lt;img src="https://vandyliu.com/p/end-of-amazon-internship/amazon2.jpg" alt="Featured image of post End of Amazon Internship" /&gt;&lt;p&gt;&lt;figure style=&#34;flex-grow: 133; flex-basis: 320px&#34;&gt;
+		&lt;a href=&#34;https://vandyliu.com/p/end-of-amazon-internship/amazon2.jpg&#34; data-size=&#34;4032x3024&#34;&gt;&lt;img src=&#34;https://vandyliu.com/p/end-of-amazon-internship/amazon2.jpg&#34;
+				srcset=&#34;https://vandyliu.com/p/end-of-amazon-internship/amazon2_huce00e86a75590a241a92c1ccd861b169_1578978_480x0_resize_q75_box.jpg 480w, https://vandyliu.com/p/end-of-amazon-internship/amazon2_huce00e86a75590a241a92c1ccd861b169_1578978_1024x0_resize_q75_box.jpg 1024w&#34;
 				width=&#34;4032&#34;
 				height=&#34;3024&#34;
 				loading=&#34;lazy&#34;
@@ -285,8 +285,8 @@ It worked the week after and then soccer is now cancelled due to the coronavirus
 &lt;/ul&gt;
 &lt;p&gt;I&amp;rsquo;m incredibly grateful for the opportunity given to me. I learned that I still have a whole lot to learn and I am incredibly excited to take on this challenge. I am also excited to announce I was offered a return offer and am definitely considering going back. I would especially love to go to a new city like Seattle or San Francisco to get a feel of the adult life. I&amp;rsquo;ve never been anywhere outside of BC for an extended period.&lt;/p&gt;
 &lt;p&gt;&lt;figure style=&#34;flex-grow: 133; flex-basis: 320px&#34;&gt;
-		&lt;a href=&#34;https://vandyliu.com/hugo-website/hugo-website/p/end-of-amazon-internship/laptop.jpg&#34; data-size=&#34;4032x3024&#34;&gt;&lt;img src=&#34;https://vandyliu.com/hugo-website/hugo-website/p/end-of-amazon-internship/laptop.jpg&#34;
-				srcset=&#34;https://vandyliu.com/hugo-website/hugo-website/p/end-of-amazon-internship/laptop_huce00e86a75590a241a92c1ccd861b169_1373526_480x0_resize_q75_box.jpg 480w, https://vandyliu.com/hugo-website/hugo-website/p/end-of-amazon-internship/laptop_huce00e86a75590a241a92c1ccd861b169_1373526_1024x0_resize_q75_box.jpg 1024w&#34;
+		&lt;a href=&#34;https://vandyliu.com/p/end-of-amazon-internship/laptop.jpg&#34; data-size=&#34;4032x3024&#34;&gt;&lt;img src=&#34;https://vandyliu.com/p/end-of-amazon-internship/laptop.jpg&#34;
+				srcset=&#34;https://vandyliu.com/p/end-of-amazon-internship/laptop_huce00e86a75590a241a92c1ccd861b169_1373526_480x0_resize_q75_box.jpg 480w, https://vandyliu.com/p/end-of-amazon-internship/laptop_huce00e86a75590a241a92c1ccd861b169_1373526_1024x0_resize_q75_box.jpg 1024w&#34;
 				width=&#34;4032&#34;
 				height=&#34;3024&#34;
 				loading=&#34;lazy&#34;
@@ -298,8 +298,8 @@ It worked the week after and then soccer is now cancelled due to the coronavirus
 	&lt;/figure&gt;
 &lt;em&gt;My laptop&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;figure style=&#34;flex-grow: 75; flex-basis: 180px&#34;&gt;
-		&lt;a href=&#34;https://vandyliu.com/hugo-website/hugo-website/p/end-of-amazon-internship/ashley.JPG&#34; data-size=&#34;1080x1440&#34;&gt;&lt;img src=&#34;https://vandyliu.com/hugo-website/hugo-website/p/end-of-amazon-internship/ashley.JPG&#34;
-				srcset=&#34;https://vandyliu.com/hugo-website/hugo-website/p/end-of-amazon-internship/ashley_hu166ca74719803ff5f73b7cf3d2284b44_84642_480x0_resize_q75_box.JPG 480w, https://vandyliu.com/hugo-website/hugo-website/p/end-of-amazon-internship/ashley_hu166ca74719803ff5f73b7cf3d2284b44_84642_1024x0_resize_q75_box.JPG 1024w&#34;
+		&lt;a href=&#34;https://vandyliu.com/p/end-of-amazon-internship/ashley.JPG&#34; data-size=&#34;1080x1440&#34;&gt;&lt;img src=&#34;https://vandyliu.com/p/end-of-amazon-internship/ashley.JPG&#34;
+				srcset=&#34;https://vandyliu.com/p/end-of-amazon-internship/ashley_hu166ca74719803ff5f73b7cf3d2284b44_84642_480x0_resize_q75_box.JPG 480w, https://vandyliu.com/p/end-of-amazon-internship/ashley_hu166ca74719803ff5f73b7cf3d2284b44_84642_1024x0_resize_q75_box.JPG 1024w&#34;
 				width=&#34;1080&#34;
 				height=&#34;1440&#34;
 				loading=&#34;lazy&#34;
@@ -314,13 +314,13 @@ It worked the week after and then soccer is now cancelled due to the coronavirus
         </item>
         <item>
         <title>Seattle Trip</title>
-        <link>https://vandyliu.com/hugo-website/p/seattle-trip/</link>
+        <link>https://vandyliu.com/p/seattle-trip/</link>
         <pubDate>Mon, 22 Jul 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://vandyliu.com/hugo-website/p/seattle-trip/</guid>
-        <description>&lt;img src="https://vandyliu.com/hugo-website/p/seattle-trip/alexademo.jpg" alt="Featured image of post Seattle Trip" /&gt;&lt;p&gt;&lt;figure style=&#34;flex-grow: 133; flex-basis: 320px&#34;&gt;
-		&lt;a href=&#34;https://vandyliu.com/hugo-website/hugo-website/p/seattle-trip/alexademo.jpg&#34; data-size=&#34;4032x3024&#34;&gt;&lt;img src=&#34;https://vandyliu.com/hugo-website/hugo-website/p/seattle-trip/alexademo.jpg&#34;
-				srcset=&#34;https://vandyliu.com/hugo-website/hugo-website/p/seattle-trip/alexademo_hud1ec546566d4f16b14c81b9d2f773215_1787638_480x0_resize_q75_box.jpg 480w, https://vandyliu.com/hugo-website/hugo-website/p/seattle-trip/alexademo_hud1ec546566d4f16b14c81b9d2f773215_1787638_1024x0_resize_q75_box.jpg 1024w&#34;
+        <guid>https://vandyliu.com/p/seattle-trip/</guid>
+        <description>&lt;img src="https://vandyliu.com/p/seattle-trip/alexademo.jpg" alt="Featured image of post Seattle Trip" /&gt;&lt;p&gt;&lt;figure style=&#34;flex-grow: 133; flex-basis: 320px&#34;&gt;
+		&lt;a href=&#34;https://vandyliu.com/p/seattle-trip/alexademo.jpg&#34; data-size=&#34;4032x3024&#34;&gt;&lt;img src=&#34;https://vandyliu.com/p/seattle-trip/alexademo.jpg&#34;
+				srcset=&#34;https://vandyliu.com/p/seattle-trip/alexademo_hud1ec546566d4f16b14c81b9d2f773215_1787638_480x0_resize_q75_box.jpg 480w, https://vandyliu.com/p/seattle-trip/alexademo_hud1ec546566d4f16b14c81b9d2f773215_1787638_1024x0_resize_q75_box.jpg 1024w&#34;
 				width=&#34;4032&#34;
 				height=&#34;3024&#34;
 				loading=&#34;lazy&#34;
@@ -336,8 +336,8 @@ It worked the week after and then soccer is now cancelled due to the coronavirus
 &lt;p&gt;That same day, we also went to Capitol Hill Block Party. It was also very fun but I lost my brand new iPhone XR&amp;hellip; ):&lt;/p&gt;
 &lt;p&gt;Thank you Amazon Future Engineers Program for the amazing trip!!!!&lt;/p&gt;
 &lt;p&gt;&lt;figure style=&#34;flex-grow: 133; flex-basis: 320px&#34;&gt;
-		&lt;a href=&#34;https://vandyliu.com/hugo-website/hugo-website/p/seattle-trip/amazonconcert.jpg&#34; data-size=&#34;2048x1536&#34;&gt;&lt;img src=&#34;https://vandyliu.com/hugo-website/hugo-website/p/seattle-trip/amazonconcert.jpg&#34;
-				srcset=&#34;https://vandyliu.com/hugo-website/hugo-website/p/seattle-trip/amazonconcert_huc09fd31ce9bb786d1041f70ffa59556f_453912_480x0_resize_q75_box.jpg 480w, https://vandyliu.com/hugo-website/hugo-website/p/seattle-trip/amazonconcert_huc09fd31ce9bb786d1041f70ffa59556f_453912_1024x0_resize_q75_box.jpg 1024w&#34;
+		&lt;a href=&#34;https://vandyliu.com/p/seattle-trip/amazonconcert.jpg&#34; data-size=&#34;2048x1536&#34;&gt;&lt;img src=&#34;https://vandyliu.com/p/seattle-trip/amazonconcert.jpg&#34;
+				srcset=&#34;https://vandyliu.com/p/seattle-trip/amazonconcert_huc09fd31ce9bb786d1041f70ffa59556f_453912_480x0_resize_q75_box.jpg 480w, https://vandyliu.com/p/seattle-trip/amazonconcert_huc09fd31ce9bb786d1041f70ffa59556f_453912_1024x0_resize_q75_box.jpg 1024w&#34;
 				width=&#34;2048&#34;
 				height=&#34;1536&#34;
 				loading=&#34;lazy&#34;
@@ -352,13 +352,13 @@ It worked the week after and then soccer is now cancelled due to the coronavirus
         </item>
         <item>
         <title>Big update</title>
-        <link>https://vandyliu.com/hugo-website/p/big-update/</link>
+        <link>https://vandyliu.com/p/big-update/</link>
         <pubDate>Thu, 20 Jun 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://vandyliu.com/hugo-website/p/big-update/</guid>
-        <description>&lt;img src="https://vandyliu.com/hugo-website/p/big-update/amazon.jpg" alt="Featured image of post Big update" /&gt;&lt;p&gt;&lt;figure style=&#34;flex-grow: 177; flex-basis: 426px&#34;&gt;
-		&lt;a href=&#34;https://vandyliu.com/hugo-website/hugo-website/p/big-update/amazon.jpg&#34; data-size=&#34;1920x1080&#34;&gt;&lt;img src=&#34;https://vandyliu.com/hugo-website/hugo-website/p/big-update/amazon.jpg&#34;
-				srcset=&#34;https://vandyliu.com/hugo-website/hugo-website/p/big-update/amazon_hu27f7dc34c9db8fd2b063f3fba6be9864_225252_480x0_resize_q75_box.jpg 480w, https://vandyliu.com/hugo-website/hugo-website/p/big-update/amazon_hu27f7dc34c9db8fd2b063f3fba6be9864_225252_1024x0_resize_q75_box.jpg 1024w&#34;
+        <guid>https://vandyliu.com/p/big-update/</guid>
+        <description>&lt;img src="https://vandyliu.com/p/big-update/amazon.jpg" alt="Featured image of post Big update" /&gt;&lt;p&gt;&lt;figure style=&#34;flex-grow: 177; flex-basis: 426px&#34;&gt;
+		&lt;a href=&#34;https://vandyliu.com/p/big-update/amazon.jpg&#34; data-size=&#34;1920x1080&#34;&gt;&lt;img src=&#34;https://vandyliu.com/p/big-update/amazon.jpg&#34;
+				srcset=&#34;https://vandyliu.com/p/big-update/amazon_hu27f7dc34c9db8fd2b063f3fba6be9864_225252_480x0_resize_q75_box.jpg 480w, https://vandyliu.com/p/big-update/amazon_hu27f7dc34c9db8fd2b063f3fba6be9864_225252_1024x0_resize_q75_box.jpg 1024w&#34;
 				width=&#34;1920&#34;
 				height=&#34;1080&#34;
 				loading=&#34;lazy&#34;
@@ -379,17 +379,17 @@ It worked the week after and then soccer is now cancelled due to the coronavirus
         </item>
         <item>
         <title>A website up</title>
-        <link>https://vandyliu.com/hugo-website/p/a-website-up/</link>
+        <link>https://vandyliu.com/p/a-website-up/</link>
         <pubDate>Sat, 26 Jan 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://vandyliu.com/hugo-website/p/a-website-up/</guid>
-        <description>&lt;img src="https://vandyliu.com/hugo-website/p/a-website-up/chrome_2019-01-26_19-09-13.png" alt="Featured image of post A website up" /&gt;&lt;p&gt;For the past three months, I&amp;rsquo;ve been trying to make a website with Jekyll by taking &lt;a class=&#34;link&#34; href=&#34;https://github.com/nandomoreirame/end2end&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+        <guid>https://vandyliu.com/p/a-website-up/</guid>
+        <description>&lt;img src="https://vandyliu.com/p/a-website-up/chrome_2019-01-26_19-09-13.png" alt="Featured image of post A website up" /&gt;&lt;p&gt;For the past three months, I&amp;rsquo;ve been trying to make a website with Jekyll by taking &lt;a class=&#34;link&#34; href=&#34;https://github.com/nandomoreirame/end2end&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;this repository&lt;/a&gt; and making it my own. Unluckily for me, it never worked out. Unfortunately, I don&amp;rsquo;t have enough knowledge about Ruby or Jekyll to figure out how to solve the issues I was having even though the webpage loaded well locally.&lt;/p&gt;
 &lt;p&gt;Because of my stubbornness, I never wanted to give up on it but I think it is finally the time. I want to work on other stuff so I&amp;rsquo;m just going to work with the default jekyll theme for now and although it is not as aesthetic, it should get the job done.&lt;/p&gt;
 &lt;p&gt;I don&amp;rsquo;t want my small edits of the website to get unnoticed though so here are some pictures of what this website was supposed to look like!&lt;/p&gt;
 &lt;p&gt;&lt;figure style=&#34;flex-grow: 204; flex-basis: 491px&#34;&gt;
-		&lt;a href=&#34;https://vandyliu.com/hugo-website/hugo-website/p/a-website-up/chrome_2019-01-26_19-09-13.png&#34; data-size=&#34;1920x938&#34;&gt;&lt;img src=&#34;https://vandyliu.com/hugo-website/hugo-website/p/a-website-up/chrome_2019-01-26_19-09-13.png&#34;
-				srcset=&#34;https://vandyliu.com/hugo-website/hugo-website/p/a-website-up/chrome_2019-01-26_19-09-13_hu509954822cd231fa6a3e3af97d767b1b_85434_480x0_resize_box_2.png 480w, https://vandyliu.com/hugo-website/hugo-website/p/a-website-up/chrome_2019-01-26_19-09-13_hu509954822cd231fa6a3e3af97d767b1b_85434_1024x0_resize_box_2.png 1024w&#34;
+		&lt;a href=&#34;https://vandyliu.com/p/a-website-up/chrome_2019-01-26_19-09-13.png&#34; data-size=&#34;1920x938&#34;&gt;&lt;img src=&#34;https://vandyliu.com/p/a-website-up/chrome_2019-01-26_19-09-13.png&#34;
+				srcset=&#34;https://vandyliu.com/p/a-website-up/chrome_2019-01-26_19-09-13_hu509954822cd231fa6a3e3af97d767b1b_85434_480x0_resize_box_2.png 480w, https://vandyliu.com/p/a-website-up/chrome_2019-01-26_19-09-13_hu509954822cd231fa6a3e3af97d767b1b_85434_1024x0_resize_box_2.png 1024w&#34;
 				width=&#34;1920&#34;
 				height=&#34;938&#34;
 				loading=&#34;lazy&#34;
@@ -400,8 +400,8 @@ It worked the week after and then soccer is now cancelled due to the coronavirus
 		
 	&lt;/figure&gt;&lt;/p&gt;
 &lt;p&gt;&lt;figure style=&#34;flex-grow: 204; flex-basis: 491px&#34;&gt;
-		&lt;a href=&#34;https://vandyliu.com/hugo-website/hugo-website/p/a-website-up/chrome_2019-01-26_19-09-22.png&#34; data-size=&#34;1920x938&#34;&gt;&lt;img src=&#34;https://vandyliu.com/hugo-website/hugo-website/p/a-website-up/chrome_2019-01-26_19-09-22.png&#34;
-				srcset=&#34;https://vandyliu.com/hugo-website/hugo-website/p/a-website-up/chrome_2019-01-26_19-09-22_huef08012b95f52aaacb879a46bac9cdb1_43083_480x0_resize_box_2.png 480w, https://vandyliu.com/hugo-website/hugo-website/p/a-website-up/chrome_2019-01-26_19-09-22_huef08012b95f52aaacb879a46bac9cdb1_43083_1024x0_resize_box_2.png 1024w&#34;
+		&lt;a href=&#34;https://vandyliu.com/p/a-website-up/chrome_2019-01-26_19-09-22.png&#34; data-size=&#34;1920x938&#34;&gt;&lt;img src=&#34;https://vandyliu.com/p/a-website-up/chrome_2019-01-26_19-09-22.png&#34;
+				srcset=&#34;https://vandyliu.com/p/a-website-up/chrome_2019-01-26_19-09-22_huef08012b95f52aaacb879a46bac9cdb1_43083_480x0_resize_box_2.png 480w, https://vandyliu.com/p/a-website-up/chrome_2019-01-26_19-09-22_huef08012b95f52aaacb879a46bac9cdb1_43083_1024x0_resize_box_2.png 1024w&#34;
 				width=&#34;1920&#34;
 				height=&#34;938&#34;
 				loading=&#34;lazy&#34;
@@ -419,11 +419,11 @@ New website now ahahahah. Old one can be found on GitHub somewhere.&lt;/p&gt;
         </item>
         <item>
         <title>Finally Coding in My Free Time</title>
-        <link>https://vandyliu.com/hugo-website/p/finally-coding-in-my-free-time/</link>
+        <link>https://vandyliu.com/p/finally-coding-in-my-free-time/</link>
         <pubDate>Tue, 08 Jan 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://vandyliu.com/hugo-website/p/finally-coding-in-my-free-time/</guid>
-        <description>&lt;img src="https://vandyliu.com/hugo-website/p/finally-coding-in-my-free-time/java_2019-01-06_13-09-18.png" alt="Featured image of post Finally Coding in My Free Time" /&gt;&lt;h1 id=&#34;welcome-&#34;&gt;Welcome!!! :)&lt;/h1&gt;
+        <guid>https://vandyliu.com/p/finally-coding-in-my-free-time/</guid>
+        <description>&lt;img src="https://vandyliu.com/p/finally-coding-in-my-free-time/java_2019-01-06_13-09-18.png" alt="Featured image of post Finally Coding in My Free Time" /&gt;&lt;h1 id=&#34;welcome-&#34;&gt;Welcome!!! :)&lt;/h1&gt;
 &lt;p&gt;&lt;strong&gt;Hello world&lt;/strong&gt;, this is my first blog post.&lt;/p&gt;
 &lt;p&gt;I&amp;rsquo;ve always been the type of kid to focus solely on school and my grades. It was always hard for me to learn stuff outside of school, even if it interested me. Like most kids, I had phases where I wanted to learn things like the guitar or play ice hockey. I would take up a few lessons and then quit because I never wanted to put in the time to learn. The only thing I really put effort into was my schoolwork and it is shown in my grades.&lt;/p&gt;
 &lt;p&gt;However, as my time in university continues to come closer to an end, I am realizing the uselessness of only having good grades. I&amp;rsquo;ve been telling myself to start some personal projects for a couple of years now, even dating back to high school but never really kept up with it. Now, with the pressure of applying to co-op jobs looming over me, I&amp;rsquo;ve decided that it is finally time to get uncomfortable and start some projects.&lt;/p&gt;
@@ -431,8 +431,8 @@ New website now ahahahah. Old one can be found on GitHub somewhere.&lt;/p&gt;
 &lt;p&gt;So right now, I&amp;rsquo;m going to focus on creating small projects that use what I know or what I am comfortable with learning. Then hopefully I start to find my niche and I&amp;rsquo;ll go on from there.&lt;/p&gt;
 &lt;p&gt;The first project I started working on over the (very short) winter break was a simple game of Pong using the processing application in Java. I still have a lot (&lt;strong&gt;A WHOLE LOT&lt;/strong&gt;) to do before I even want to show people, but it is in the works.&lt;/p&gt;
 &lt;p&gt;&lt;figure style=&#34;flex-grow: 187; flex-basis: 450px&#34;&gt;
-		&lt;a href=&#34;https://vandyliu.com/hugo-website/hugo-website/p/finally-coding-in-my-free-time/java_2019-01-06_13-09-18.png&#34; data-size=&#34;802x427&#34;&gt;&lt;img src=&#34;https://vandyliu.com/hugo-website/hugo-website/p/finally-coding-in-my-free-time/java_2019-01-06_13-09-18.png&#34;
-				srcset=&#34;https://vandyliu.com/hugo-website/hugo-website/p/finally-coding-in-my-free-time/java_2019-01-06_13-09-18_hu5c7fb5dc5e94e0a735769d7fcf3b4d73_6256_480x0_resize_box_2.png 480w, https://vandyliu.com/hugo-website/hugo-website/p/finally-coding-in-my-free-time/java_2019-01-06_13-09-18_hu5c7fb5dc5e94e0a735769d7fcf3b4d73_6256_1024x0_resize_box_2.png 1024w&#34;
+		&lt;a href=&#34;https://vandyliu.com/p/finally-coding-in-my-free-time/java_2019-01-06_13-09-18.png&#34; data-size=&#34;802x427&#34;&gt;&lt;img src=&#34;https://vandyliu.com/p/finally-coding-in-my-free-time/java_2019-01-06_13-09-18.png&#34;
+				srcset=&#34;https://vandyliu.com/p/finally-coding-in-my-free-time/java_2019-01-06_13-09-18_hu5c7fb5dc5e94e0a735769d7fcf3b4d73_6256_480x0_resize_box_2.png 480w, https://vandyliu.com/p/finally-coding-in-my-free-time/java_2019-01-06_13-09-18_hu5c7fb5dc5e94e0a735769d7fcf3b4d73_6256_1024x0_resize_box_2.png 1024w&#34;
 				width=&#34;802&#34;
 				height=&#34;427&#34;
 				loading=&#34;lazy&#34;
@@ -446,8 +446,8 @@ New website now ahahahah. Old one can be found on GitHub somewhere.&lt;/p&gt;
     &gt;youtube tutorial on building a simple discord bot&lt;/a&gt; and I decided I could definitely build off of that. I have no experience in Node.js or javascript but I thought it would be nice to finally play around with those tools today. I used a lot of &lt;a class=&#34;link&#34; href=&#34;https://www.w3schools.com/js&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;w3schools&lt;/a&gt; whenever I needed help with javascript and eventually coded something that worked! It is really simple and the code is &lt;strong&gt;very&lt;/strong&gt; messy but it&amp;rsquo;s a start. I do plan on making the code a little nicer and maybe adding a few more commands.&lt;/p&gt;
 &lt;p&gt;&lt;figure style=&#34;flex-grow: 113; flex-basis: 272px&#34;&gt;
-		&lt;a href=&#34;https://vandyliu.com/hugo-website/hugo-website/p/finally-coding-in-my-free-time/Discord_2019-01-08_22-00-55.png&#34; data-size=&#34;530x466&#34;&gt;&lt;img src=&#34;https://vandyliu.com/hugo-website/hugo-website/p/finally-coding-in-my-free-time/Discord_2019-01-08_22-00-55.png&#34;
-				srcset=&#34;https://vandyliu.com/hugo-website/hugo-website/p/finally-coding-in-my-free-time/Discord_2019-01-08_22-00-55_hu18d86468359e774299b0d754d50a831a_37480_480x0_resize_box_2.png 480w, https://vandyliu.com/hugo-website/hugo-website/p/finally-coding-in-my-free-time/Discord_2019-01-08_22-00-55_hu18d86468359e774299b0d754d50a831a_37480_1024x0_resize_box_2.png 1024w&#34;
+		&lt;a href=&#34;https://vandyliu.com/p/finally-coding-in-my-free-time/Discord_2019-01-08_22-00-55.png&#34; data-size=&#34;530x466&#34;&gt;&lt;img src=&#34;https://vandyliu.com/p/finally-coding-in-my-free-time/Discord_2019-01-08_22-00-55.png&#34;
+				srcset=&#34;https://vandyliu.com/p/finally-coding-in-my-free-time/Discord_2019-01-08_22-00-55_hu18d86468359e774299b0d754d50a831a_37480_480x0_resize_box_2.png 480w, https://vandyliu.com/p/finally-coding-in-my-free-time/Discord_2019-01-08_22-00-55_hu18d86468359e774299b0d754d50a831a_37480_1024x0_resize_box_2.png 1024w&#34;
 				width=&#34;530&#34;
 				height=&#34;466&#34;
 				loading=&#34;lazy&#34;

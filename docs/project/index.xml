@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Vandy Liu</title>
-    <link>https://vandyliu.com/hugo-website/project/</link>
+    <link>https://vandyliu.com/project/</link>
     <description>Recent content in Projects on Vandy Liu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 10 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://vandyliu.com/hugo-website/project/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 10 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://vandyliu.com/project/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>TODO</title>
-      <link>https://vandyliu.com/hugo-website/proj/todo/</link>
+      <link>https://vandyliu.com/proj/todo/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://vandyliu.com/hugo-website/proj/todo/</guid>
+      <guid>https://vandyliu.com/proj/todo/</guid>
       <description>Todo</description>
     </item>
     

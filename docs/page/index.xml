@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages on Vandy Liu</title>
-    <link>https://vandyliu.com/hugo-website/page/</link>
+    <link>https://vandyliu.com/page/</link>
     <description>Recent content in Pages on Vandy Liu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 28 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://vandyliu.com/hugo-website/page/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 28 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://vandyliu.com/page/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>https://vandyliu.com/hugo-website/about/</link>
+      <link>https://vandyliu.com/about/</link>
       <pubDate>Mon, 28 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://vandyliu.com/hugo-website/about/</guid>
+      <guid>https://vandyliu.com/about/</guid>
       <description>Me 
 Hello there!
 My name is Vandy Liu (he/him), and I&amp;rsquo;m a computer science student at UBC graduating in Spring 2022.
@@ -21,28 +21,28 @@ During the school year, I am a teaching assistant for CPSC 121, a first year com
     
     <item>
       <title>Projects</title>
-      <link>https://vandyliu.com/hugo-website/projects/</link>
+      <link>https://vandyliu.com/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vandyliu.com/hugo-website/projects/</guid>
+      <guid>https://vandyliu.com/projects/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Resume</title>
-      <link>https://vandyliu.com/hugo-website/resume/</link>
+      <link>https://vandyliu.com/resume/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vandyliu.com/hugo-website/resume/</guid>
+      <guid>https://vandyliu.com/resume/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Search</title>
-      <link>https://vandyliu.com/hugo-website/search/</link>
+      <link>https://vandyliu.com/search/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vandyliu.com/hugo-website/search/</guid>
+      <guid>https://vandyliu.com/search/</guid>
       <description></description>
     </item>
     

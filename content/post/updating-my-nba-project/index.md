@@ -2,13 +2,13 @@
 title = "Updating my NBA Project"
 description = "Some updates I did to my NBA project"
 date = "2019-11-02"
-keywords = ["blog", "project"]
-categories = ["blog", "project"]
+keywords = ["blog", "project", "python", "react"]
+categories = ["blog", "project", "python", "react"]
 tags = [
  "nba",
  "coding",
  "project",
- "blog"
+ "blog", "python", "react"
 ]
 series = []
 aliases = []

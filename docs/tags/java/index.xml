@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>java on Vandy Liu</title>
-    <link>vandyliu.github.io/tags/java/</link>
+    <link>vandyliu.com/hugo-website/tags/java/</link>
     <description>Recent content in java on Vandy Liu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 20 Aug 2019 00:00:00 +0000</lastBuildDate><atom:link href="vandyliu.github.io/tags/java/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 20 Aug 2019 00:00:00 +0000</lastBuildDate><atom:link href="vandyliu.com/hugo-website/tags/java/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>End of Amazon Internship</title>
-      <link>vandyliu.github.io/p/end-of-amazon-internship/</link>
+      <link>vandyliu.com/hugo-website/p/end-of-amazon-internship/</link>
       <pubDate>Tue, 20 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>vandyliu.github.io/p/end-of-amazon-internship/</guid>
+      <guid>vandyliu.com/hugo-website/p/end-of-amazon-internship/</guid>
       <description>Amazon  Amazon Vancouver
 This past week was my last week as an intern at Amazon. It was an incredible experience, where I learned not only a lot about programming and code, but about the deployment cycle, what work is like, and so many more things.
 What I worked on

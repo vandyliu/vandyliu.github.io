@@ -19,4 +19,5 @@ In the fall of 2019, I worked at Splunk Vancouver as a full stack developer inte
 Outside of school, I like to go to the gym, watch the NFL, NBA (Go raptors!), play video games and play soccer. Currently, I am playing VALORANT and CS:GO.
 
 [LinkedIn](https://www.linkedin.com/in/vandy-liu/)
+
 [GitHub](https://github.com/vandyliu)

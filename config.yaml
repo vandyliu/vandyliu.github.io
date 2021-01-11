@@ -1,7 +1,7 @@
-baseurl: vandyliu.github.io
+baseurl: vandyliu.com/hugo-website
 languageCode: en-us
 theme: hugo-theme-stack
-paginate: 5
+paginate: 10
 title: Vandy Liu
 
 # Change it to your Disqus shortname before using

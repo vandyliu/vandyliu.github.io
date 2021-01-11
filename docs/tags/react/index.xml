@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>react on Vandy Liu</title>
+    <link>vandyliu.com/hugo-website/tags/react/</link>
+    <description>Recent content in react on Vandy Liu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 02 Nov 2019 00:00:00 +0000</lastBuildDate><atom:link href="vandyliu.com/hugo-website/tags/react/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Updating my NBA Project</title>
+      <link>vandyliu.com/hugo-website/p/updating-my-nba-project/</link>
+      <pubDate>Sat, 02 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>vandyliu.com/hugo-website/p/updating-my-nba-project/</guid>
+      <description>Website In Action 
+Click here to see it!
+If you haven&amp;rsquo;t seen my other blog post, make sure to read it first.
+In the past summer, when I was happy with my project, I decided to host it on heroku and github pages and leave it be until the season started. Once the pre-season started, I noticed a major problem: the boxscores did not update until the game finished.</description>
+    </item>
+    
+    <item>
+      <title>Full Stack NBA Project</title>
+      <link>vandyliu.com/hugo-website/p/full-stack-nba-project/</link>
+      <pubDate>Sun, 15 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>vandyliu.com/hugo-website/p/full-stack-nba-project/</guid>
+      <description>November 2, 2019 - UPDATED BLOG POST
+ Website In Action 
+Click here to see it!
+BoxScoreQ is a website to keep you updated on NBA games and their box scores quickly. Whenever I come home from work or school, I open up and see what NBA games I should tune in to. However, I would always want to look at the box score first to see if there is a particular game that might interest me like a game where Derrick Rose currently has 41 points or a game where Klay Thompson is 6-7 from 3 point range.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -2,13 +2,13 @@
 title = "Full Stack NBA Project"
 description = "How I created my NBA project that helped me get into Microsoft Garage"
 date = "2019-09-15"
-keywords = ["blog", "project"]
-categories = ["blog", "project"]
+keywords = ["blog", "project", "python", "react"]
+categories = ["blog", "project", "python", "react"]
 tags = [
  "nba",
  "coding",
  "project",
- "blog"
+ "blog", "python", "react"
 ]
 series = []
 aliases = []

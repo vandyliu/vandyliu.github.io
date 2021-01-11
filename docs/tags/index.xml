@@ -2,80 +2,89 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Vandy Liu</title>
-    <link>vandyliu.github.io/tags/</link>
+    <link>vandyliu.com/hugo-website/tags/</link>
     <description>Recent content in Tags on Vandy Liu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 10 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="vandyliu.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 10 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="vandyliu.com/hugo-website/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>blog</title>
-      <link>vandyliu.github.io/tags/blog/</link>
+      <link>vandyliu.com/hugo-website/tags/blog/</link>
       <pubDate>Sun, 10 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>vandyliu.github.io/tags/blog/</guid>
+      <guid>vandyliu.com/hugo-website/tags/blog/</guid>
       <description></description>
     </item>
     
     <item>
       <title>internship</title>
-      <link>vandyliu.github.io/tags/internship/</link>
+      <link>vandyliu.com/hugo-website/tags/internship/</link>
       <pubDate>Sun, 10 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>vandyliu.github.io/tags/internship/</guid>
+      <guid>vandyliu.com/hugo-website/tags/internship/</guid>
       <description></description>
     </item>
     
     <item>
       <title>project</title>
-      <link>vandyliu.github.io/tags/project/</link>
+      <link>vandyliu.com/hugo-website/tags/project/</link>
       <pubDate>Sun, 08 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>vandyliu.github.io/tags/project/</guid>
+      <guid>vandyliu.com/hugo-website/tags/project/</guid>
       <description></description>
     </item>
     
     <item>
       <title>python</title>
-      <link>vandyliu.github.io/tags/python/</link>
+      <link>vandyliu.com/hugo-website/tags/python/</link>
       <pubDate>Sun, 08 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>vandyliu.github.io/tags/python/</guid>
+      <guid>vandyliu.com/hugo-website/tags/python/</guid>
       <description></description>
     </item>
     
     <item>
       <title>coding</title>
-      <link>vandyliu.github.io/tags/coding/</link>
+      <link>vandyliu.com/hugo-website/tags/coding/</link>
       <pubDate>Sat, 02 Nov 2019 00:00:00 +0000</pubDate>
       
-      <guid>vandyliu.github.io/tags/coding/</guid>
+      <guid>vandyliu.com/hugo-website/tags/coding/</guid>
       <description></description>
     </item>
     
     <item>
       <title>nba</title>
-      <link>vandyliu.github.io/tags/nba/</link>
+      <link>vandyliu.com/hugo-website/tags/nba/</link>
       <pubDate>Sat, 02 Nov 2019 00:00:00 +0000</pubDate>
       
-      <guid>vandyliu.github.io/tags/nba/</guid>
+      <guid>vandyliu.com/hugo-website/tags/nba/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>react</title>
+      <link>vandyliu.com/hugo-website/tags/react/</link>
+      <pubDate>Sat, 02 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>vandyliu.com/hugo-website/tags/react/</guid>
       <description></description>
     </item>
     
     <item>
       <title>amazon</title>
-      <link>vandyliu.github.io/tags/amazon/</link>
+      <link>vandyliu.com/hugo-website/tags/amazon/</link>
       <pubDate>Tue, 20 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>vandyliu.github.io/tags/amazon/</guid>
+      <guid>vandyliu.com/hugo-website/tags/amazon/</guid>
       <description></description>
     </item>
     
     <item>
       <title>java</title>
-      <link>vandyliu.github.io/tags/java/</link>
+      <link>vandyliu.com/hugo-website/tags/java/</link>
       <pubDate>Tue, 20 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>vandyliu.github.io/tags/java/</guid>
+      <guid>vandyliu.com/hugo-website/tags/java/</guid>
       <description></description>
     </item>
     

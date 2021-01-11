@@ -13,11 +13,14 @@ DefaultContentLanguage: en
 
 permalinks:
     post: /p/:slug/
+    project: /proj/:slug/
     page: /:slug/
 
 params:
     mainSections:
         - post
+    projects:
+        - project
     featuredImageField: image
     rssFullContent: true
     favicon:
@@ -55,22 +58,20 @@ params:
     widgets:
         enabled:
             - search
-            - archives
             - tag-cloud
-
-        archives:
-            limit: 5
-            path: archives
 
         tagCloud:
             limit: 10
 
     opengraph:
-        twitter:
+        linkedin:
             # Your Twitter username
-            site:
+            site: https://www.linkedin.com/in/vandy-liu/
 
             # Available values: summary, summary_large_image
+            card: summary_large_image
+        github:
+            site: https://github.com/vandyliu
             card: summary_large_image
 
     defaultImage:
@@ -111,6 +112,12 @@ menu:
           url: projects
           weight: -80
           pre: projects
+
+        - identifier: resume
+          name: Resume
+          url: resume
+          weight: -70
+          pre: resume
 
         - identifier: search
           name: Search

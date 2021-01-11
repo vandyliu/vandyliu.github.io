@@ -6,7 +6,7 @@ author: "Vandy Liu"
 lastmod: "2020-12-28"
 ---
 
-![Me](/author.jpg)
+![Me](author.jpg)
 
 **Hello there!** 
 

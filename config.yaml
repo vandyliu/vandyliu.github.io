@@ -40,7 +40,7 @@ params:
         subtitle: A computer science student who enjoys doing stuff with computers and who needs to change this text in the future.
         avatar:
             local: false
-            src: /good.JPG
+            src: images/me.jpg
 
     article:
         math: false

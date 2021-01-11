@@ -1,4 +1,4 @@
-baseurl: vandyliu.com/hugo-website
+baseurl: https://vandyliu.com/hugo-website
 languageCode: en-us
 theme: hugo-theme-stack
 paginate: 10

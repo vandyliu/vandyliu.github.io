@@ -2,62 +2,62 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Vandy Liu</title>
-    <link>vandyliu.com/hugo-website/categories/</link>
+    <link>https://vandyliu.com/hugo-website/categories/</link>
     <description>Recent content in Categories on Vandy Liu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 10 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="vandyliu.com/hugo-website/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 10 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://vandyliu.com/hugo-website/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>blog</title>
-      <link>vandyliu.com/hugo-website/categories/blog/</link>
+      <link>https://vandyliu.com/hugo-website/categories/blog/</link>
       <pubDate>Sun, 10 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>vandyliu.com/hugo-website/categories/blog/</guid>
+      <guid>https://vandyliu.com/hugo-website/categories/blog/</guid>
       <description></description>
     </item>
     
     <item>
       <title>internship</title>
-      <link>vandyliu.com/hugo-website/categories/internship/</link>
+      <link>https://vandyliu.com/hugo-website/categories/internship/</link>
       <pubDate>Sun, 10 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>vandyliu.com/hugo-website/categories/internship/</guid>
+      <guid>https://vandyliu.com/hugo-website/categories/internship/</guid>
       <description></description>
     </item>
     
     <item>
       <title>project</title>
-      <link>vandyliu.com/hugo-website/categories/project/</link>
+      <link>https://vandyliu.com/hugo-website/categories/project/</link>
       <pubDate>Sun, 08 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>vandyliu.com/hugo-website/categories/project/</guid>
+      <guid>https://vandyliu.com/hugo-website/categories/project/</guid>
       <description></description>
     </item>
     
     <item>
       <title>python</title>
-      <link>vandyliu.com/hugo-website/categories/python/</link>
+      <link>https://vandyliu.com/hugo-website/categories/python/</link>
       <pubDate>Sun, 08 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>vandyliu.com/hugo-website/categories/python/</guid>
+      <guid>https://vandyliu.com/hugo-website/categories/python/</guid>
       <description></description>
     </item>
     
     <item>
       <title>react</title>
-      <link>vandyliu.com/hugo-website/categories/react/</link>
+      <link>https://vandyliu.com/hugo-website/categories/react/</link>
       <pubDate>Sat, 02 Nov 2019 00:00:00 +0000</pubDate>
       
-      <guid>vandyliu.com/hugo-website/categories/react/</guid>
+      <guid>https://vandyliu.com/hugo-website/categories/react/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Test</title>
-      <link>vandyliu.com/hugo-website/categories/test/</link>
+      <link>https://vandyliu.com/hugo-website/categories/test/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>vandyliu.com/hugo-website/categories/test/</guid>
+      <guid>https://vandyliu.com/hugo-website/categories/test/</guid>
       <description></description>
     </item>
     

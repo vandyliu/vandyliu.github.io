@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>project on Vandy Liu</title>
-    <link>vandyliu.com/hugo-website/categories/project/</link>
+    <link>https://vandyliu.com/hugo-website/categories/project/</link>
     <description>Recent content in project on Vandy Liu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 08 Mar 2020 00:00:00 +0000</lastBuildDate><atom:link href="vandyliu.com/hugo-website/categories/project/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 08 Mar 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://vandyliu.com/hugo-website/categories/project/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Soccer games and Python</title>
-      <link>vandyliu.com/hugo-website/p/soccer-games-and-python/</link>
+      <link>https://vandyliu.com/hugo-website/p/soccer-games-and-python/</link>
       <pubDate>Sun, 08 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>vandyliu.com/hugo-website/p/soccer-games-and-python/</guid>
+      <guid>https://vandyliu.com/hugo-website/p/soccer-games-and-python/</guid>
       <description>I’ve been playing soccer for the past 15 years of my life. I love everything about the game and I enjoy playing it a ton. After high school ended, there wasn’t much opportunity for me to play and I got caught up in a lot of other things like school and work. However, I started dropping in at this indoor soccer event every Thursday. Because I missed the registration date, I am not a registered player and can only play if there aren’t enough registered players willing to play that day.</description>
     </item>
     
     <item>
       <title>Updating my NBA Project</title>
-      <link>vandyliu.com/hugo-website/p/updating-my-nba-project/</link>
+      <link>https://vandyliu.com/hugo-website/p/updating-my-nba-project/</link>
       <pubDate>Sat, 02 Nov 2019 00:00:00 +0000</pubDate>
       
-      <guid>vandyliu.com/hugo-website/p/updating-my-nba-project/</guid>
+      <guid>https://vandyliu.com/hugo-website/p/updating-my-nba-project/</guid>
       <description>Website In Action 
 Click here to see it!
 If you haven&amp;rsquo;t seen my other blog post, make sure to read it first.
@@ -30,10 +30,10 @@ In the past summer, when I was happy with my project, I decided to host it on he
     
     <item>
       <title>Full Stack NBA Project</title>
-      <link>vandyliu.com/hugo-website/p/full-stack-nba-project/</link>
+      <link>https://vandyliu.com/hugo-website/p/full-stack-nba-project/</link>
       <pubDate>Sun, 15 Sep 2019 00:00:00 +0000</pubDate>
       
-      <guid>vandyliu.com/hugo-website/p/full-stack-nba-project/</guid>
+      <guid>https://vandyliu.com/hugo-website/p/full-stack-nba-project/</guid>
       <description>November 2, 2019 - UPDATED BLOG POST
  Website In Action 
 Click here to see it!
@@ -42,20 +42,20 @@ BoxScoreQ is a website to keep you updated on NBA games and their box scores qui
     
     <item>
       <title>A website up</title>
-      <link>vandyliu.com/hugo-website/p/a-website-up/</link>
+      <link>https://vandyliu.com/hugo-website/p/a-website-up/</link>
       <pubDate>Sat, 26 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>vandyliu.com/hugo-website/p/a-website-up/</guid>
+      <guid>https://vandyliu.com/hugo-website/p/a-website-up/</guid>
       <description>For the past three months, I&amp;rsquo;ve been trying to make a website with Jekyll by taking this repository and making it my own. Unluckily for me, it never worked out. Unfortunately, I don&amp;rsquo;t have enough knowledge about Ruby or Jekyll to figure out how to solve the issues I was having even though the webpage loaded well locally.
 Because of my stubbornness, I never wanted to give up on it but I think it is finally the time.</description>
     </item>
     
     <item>
       <title>Finally Coding in My Free Time</title>
-      <link>vandyliu.com/hugo-website/p/finally-coding-in-my-free-time/</link>
+      <link>https://vandyliu.com/hugo-website/p/finally-coding-in-my-free-time/</link>
       <pubDate>Tue, 08 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>vandyliu.com/hugo-website/p/finally-coding-in-my-free-time/</guid>
+      <guid>https://vandyliu.com/hugo-website/p/finally-coding-in-my-free-time/</guid>
       <description>Welcome!!! :) Hello world, this is my first blog post.
 I&amp;rsquo;ve always been the type of kid to focus solely on school and my grades. It was always hard for me to learn stuff outside of school, even if it interested me. Like most kids, I had phases where I wanted to learn things like the guitar or play ice hockey. I would take up a few lessons and then quit because I never wanted to put in the time to learn.</description>
     </item>

@@ -5,7 +5,7 @@ description = "Here is a list of projects that I worked on"
 tags = [
 ]
 +++
-More will be added. Just haven't gotten to writing a small write up for quite a few.
+More will be added. Just haven't gotten to writing a small write up for quite a few. If you're interested in others, check out my [GitHub](https://github.com/vandyliu)
 
 ### [**Box Score Quick**](https://vandyliu.com/boxscorequick)
 ![bsq](bsqv2.gif)

@@ -8,6 +8,25 @@
     <language>en-us</language>
     <lastBuildDate>Sun, 08 Mar 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://vandyliu.com/tags/aws/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>WhatsApp Soccer Pick Up Game Bot</title>
+      <link>https://vandyliu.com/proj/whatsapp-soccer-pick-up-game-bot/</link>
+      <pubDate>Sat, 15 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://vandyliu.com/proj/whatsapp-soccer-pick-up-game-bot/</guid>
+      <description>The gist of this project came from the fact that I missed the registration time to be a committed member for Thursday indoor soccer games. There are 15 spots, first reserved for committed members and then if they are not all filled, some drop in players are selected to join. To become selected for drop-in, you have to respond to a specific text message that the organizer sends out the day before.</description>
+    </item>
+    
+    <item>
+      <title>Check Out Alexa Skill (Hackathon)</title>
+      <link>https://vandyliu.com/proj/check-out-alexa-skill-hackathon/</link>
+      <pubDate>Wed, 10 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://vandyliu.com/proj/check-out-alexa-skill-hackathon/</guid>
+      <description>Amazon Alexa   Languages/Technologies: Node.js, AWS Lambda, MongoDB
+An Alexa skill designed to make keeping track of attedance for after-school programs easier. Parents can quickly check their child out with their voice. The supervisors can also see who is still here and who has left with a web UI designed with React. The application was made to help a Boys and Kids club in the Seattle area. We used a MongoDB database and AWS Lambda to run our Alexa skill.</description>
+    </item>
+    
+    <item>
       <title>Soccer games and Python</title>
       <link>https://vandyliu.com/p/soccer-games-and-python/</link>
       <pubDate>Sun, 08 Mar 2020 00:00:00 +0000</pubDate>

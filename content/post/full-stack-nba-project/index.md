@@ -17,7 +17,7 @@ image = "bsq.gif"
 +++
 [November 2, 2019 - UPDATED BLOG POST](../updating-my-nba-project)
 
-![Website In Action](bsq.gif)
+{{< figure src="bsq.gif" width=800rem title="Website In Action">}}
 
 [Click here to see it!](https://vandyliu.com/boxscorequick)
 

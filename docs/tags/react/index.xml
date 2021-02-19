@@ -6,15 +6,47 @@
     <description>Recent content in react on Vandy Liu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 02 Nov 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://vandyliu.com/tags/react/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 27 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://vandyliu.com/tags/react/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>VALORANT SQL School Project</title>
+      <link>https://vandyliu.com/proj/valorant-sql-school-project/</link>
+      <pubDate>Fri, 27 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://vandyliu.com/proj/valorant-sql-school-project/</guid>
+      <description>Website   Our intro to relational database course has a capstone project where you make an application that has a bunch of SQL commands. With two others, we created a simple website which is supposed to be used to display VALORANT stats such as match history and team information. VALORANT is a multiplayer first person shooter game made by Riot Games that is very popular currently (2020).</description>
+    </item>
+    
+    <item>
+      <title>Box Score Quick</title>
+      <link>https://vandyliu.com/proj/box-score-quick/</link>
+      <pubDate>Mon, 11 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://vandyliu.com/proj/box-score-quick/</guid>
+      <description>Box Score Quick   Languages/Technologies: React, Python, Flask, Heroku, MongoDB (previously)
+For NBA fanatics, who want to watch interesting games or just get real-time box scores quick and easy. All box scores for every game all on a single page. Read more here and here for an update.
+Check it out here.
+Github (frontend)
+Github (backend)</description>
+    </item>
+    
+    <item>
+      <title>mysoil.space (Hackathon)</title>
+      <link>https://vandyliu.com/proj/mysoil.space-hackathon/</link>
+      <pubDate>Sun, 14 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://vandyliu.com/proj/mysoil.space-hackathon/</guid>
+      <description>MySoil.space App   Languages/Technologies: React, Firebase, Microsoft Weather API
+A mobile web application to make community gardening easier. Join a community garden and keep track your crops and plants. Using the Microsoft Weather API and our Arduino sensor that detects soil moisture, an algorithm determines if a plant needs to be watered along with other tasks and reminders.
+Story: This was my first hackathon event (XDHacks) with a couple friends.</description>
+    </item>
+    
     <item>
       <title>Updating my NBA Project</title>
       <link>https://vandyliu.com/p/updating-my-nba-project/</link>
       <pubDate>Sat, 02 Nov 2019 00:00:00 +0000</pubDate>
       
       <guid>https://vandyliu.com/p/updating-my-nba-project/</guid>
-      <description>Website In Action 
-Click here to see it!
+      <description>Website In Action   Click here to see it!
 If you haven&amp;rsquo;t seen my other blog post, make sure to read it first.
 In the past summer, when I was happy with my project, I decided to host it on heroku and github pages and leave it be until the season started. Once the pre-season started, I noticed a major problem: the boxscores did not update until the game finished.</description>
     </item>
@@ -26,8 +58,7 @@ In the past summer, when I was happy with my project, I decided to host it on he
       
       <guid>https://vandyliu.com/p/full-stack-nba-project/</guid>
       <description>November 2, 2019 - UPDATED BLOG POST
- Website In Action 
-Click here to see it!
+  Website In Action   Click here to see it!
 BoxScoreQ is a website to keep you updated on NBA games and their box scores quickly. Whenever I come home from work or school, I open up and see what NBA games I should tune in to. However, I would always want to look at the box score first to see if there is a particular game that might interest me like a game where Derrick Rose currently has 41 points or a game where Klay Thompson is 6-7 from 3 point range.</description>
     </item>
     

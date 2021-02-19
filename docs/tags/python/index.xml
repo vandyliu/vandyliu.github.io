@@ -8,6 +8,47 @@
     <language>en-us</language>
     <lastBuildDate>Sun, 08 Mar 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://vandyliu.com/tags/python/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>WhatsApp Soccer Pick Up Game Bot</title>
+      <link>https://vandyliu.com/proj/whatsapp-soccer-pick-up-game-bot/</link>
+      <pubDate>Sat, 15 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://vandyliu.com/proj/whatsapp-soccer-pick-up-game-bot/</guid>
+      <description>The gist of this project came from the fact that I missed the registration time to be a committed member for Thursday indoor soccer games. There are 15 spots, first reserved for committed members and then if they are not all filled, some drop in players are selected to join. To become selected for drop-in, you have to respond to a specific text message that the organizer sends out the day before.</description>
+    </item>
+    
+    <item>
+      <title>UBC Course Auto Registrar</title>
+      <link>https://vandyliu.com/proj/ubc-course-auto-registrar/</link>
+      <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://vandyliu.com/proj/ubc-course-auto-registrar/</guid>
+      <description>UBC classroom   Using Python, Selenium and BeautifulSoup4, I was able to create a bot that automatically registered me in UBC courses once a spot was available. There are other services similar to this one out there, but I wanted to be a little different. Almost all the other services available (paid and free) only notify you once a spot is available. I wanted to actually automatically register you in it.</description>
+    </item>
+    
+    <item>
+      <title>Direction Message (DM) Us (Hackathon)</title>
+      <link>https://vandyliu.com/proj/direction-message-dm-us-hackathon/</link>
+      <pubDate>Sat, 30 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://vandyliu.com/proj/direction-message-dm-us-hackathon/</guid>
+      <description>DM us (app)   Languages/Technologies: Python, Flask, Microsoft Azure, Twilio API, Google Maps API
+A Flask app hosted on Azure that communicates through SMS messages to provide users with real-time transit information and directions, which is usually only available with data. Our focus was to help people that cannot afford data get access to transit information because everyone should know how to get home regardless of financial status.</description>
+    </item>
+    
+    <item>
+      <title>Box Score Quick</title>
+      <link>https://vandyliu.com/proj/box-score-quick/</link>
+      <pubDate>Mon, 11 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://vandyliu.com/proj/box-score-quick/</guid>
+      <description>Box Score Quick   Languages/Technologies: React, Python, Flask, Heroku, MongoDB (previously)
+For NBA fanatics, who want to watch interesting games or just get real-time box scores quick and easy. All box scores for every game all on a single page. Read more here and here for an update.
+Check it out here.
+Github (frontend)
+Github (backend)</description>
+    </item>
+    
+    <item>
       <title>Soccer games and Python</title>
       <link>https://vandyliu.com/p/soccer-games-and-python/</link>
       <pubDate>Sun, 08 Mar 2020 00:00:00 +0000</pubDate>
@@ -22,8 +63,7 @@
       <pubDate>Sat, 02 Nov 2019 00:00:00 +0000</pubDate>
       
       <guid>https://vandyliu.com/p/updating-my-nba-project/</guid>
-      <description>Website In Action 
-Click here to see it!
+      <description>Website In Action   Click here to see it!
 If you haven&amp;rsquo;t seen my other blog post, make sure to read it first.
 In the past summer, when I was happy with my project, I decided to host it on heroku and github pages and leave it be until the season started. Once the pre-season started, I noticed a major problem: the boxscores did not update until the game finished.</description>
     </item>
@@ -35,8 +75,7 @@ In the past summer, when I was happy with my project, I decided to host it on he
       
       <guid>https://vandyliu.com/p/full-stack-nba-project/</guid>
       <description>November 2, 2019 - UPDATED BLOG POST
- Website In Action 
-Click here to see it!
+  Website In Action   Click here to see it!
 BoxScoreQ is a website to keep you updated on NBA games and their box scores quickly. Whenever I come home from work or school, I open up and see what NBA games I should tune in to. However, I would always want to look at the box score first to see if there is a particular game that might interest me like a game where Derrick Rose currently has 41 points or a game where Klay Thompson is 6-7 from 3 point range.</description>
     </item>
     

@@ -15,9 +15,7 @@ aliases = []
 image = "amazon2.jpg"
 
 +++
-
-![Amazon](amazon2.jpg)
-*Amazon Vancouver*
+{{< figure src="amazon2.jpg" width=600rem title="Amazon Vancouver">}}
 
 This past week was my last week as an intern at Amazon. It was an incredible experience, where I learned not only a lot about programming and code, but about the deployment cycle, what work is like, and so many more things.
 
@@ -42,8 +40,7 @@ Unfortunately, I cannot go into much detail about what I worked on this Summer. 
 
 I'm incredibly grateful for the opportunity given to me. I learned that I still have a whole lot to learn and I am incredibly excited to take on this challenge. I am also excited to announce I was offered a return offer and am definitely considering going back. I would especially love to go to a new city like Seattle or San Francisco to get a feel of the adult life. I've never been anywhere outside of BC for an extended period.
 
-![Laptop](laptop.jpg)
-*My laptop*
+{{< figure src="laptop.jpg" width=400rem title="Laptop">}}
 
-![My niece](ashley.JPG)
-**Bonus:** *Cute picture of my niece repping Amazon* :heart_eyes:
+{{< figure src="ashley.JPG" width=400rem title="Cute picture of my niece">}}
+

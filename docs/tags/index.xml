@@ -6,7 +6,25 @@
     <description>Recent content in Tags on Vandy Liu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 10 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://vandyliu.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 11 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://vandyliu.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hugo</title>
+      <link>https://vandyliu.com/tags/hugo/</link>
+      <pubDate>Mon, 11 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://vandyliu.com/tags/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>website</title>
+      <link>https://vandyliu.com/tags/website/</link>
+      <pubDate>Mon, 11 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://vandyliu.com/tags/website/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>blog</title>
       <link>https://vandyliu.com/tags/blog/</link>
@@ -22,6 +40,69 @@
       <pubDate>Sun, 10 Jan 2021 00:00:00 +0000</pubDate>
       
       <guid>https://vandyliu.com/tags/internship/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Express</title>
+      <link>https://vandyliu.com/tags/express/</link>
+      <pubDate>Fri, 27 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://vandyliu.com/tags/express/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>JavaScript</title>
+      <link>https://vandyliu.com/tags/javascript/</link>
+      <pubDate>Fri, 27 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://vandyliu.com/tags/javascript/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MySQL</title>
+      <link>https://vandyliu.com/tags/mysql/</link>
+      <pubDate>Fri, 27 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://vandyliu.com/tags/mysql/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>react</title>
+      <link>https://vandyliu.com/tags/react/</link>
+      <pubDate>Fri, 27 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://vandyliu.com/tags/react/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>School</title>
+      <link>https://vandyliu.com/tags/school/</link>
+      <pubDate>Fri, 27 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://vandyliu.com/tags/school/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SQL</title>
+      <link>https://vandyliu.com/tags/sql/</link>
+      <pubDate>Fri, 27 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://vandyliu.com/tags/sql/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>wix</title>
+      <link>https://vandyliu.com/tags/wix/</link>
+      <pubDate>Mon, 24 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://vandyliu.com/tags/wix/</guid>
       <description></description>
     </item>
     
@@ -71,6 +152,87 @@
     </item>
     
     <item>
+      <title>Machine Learning</title>
+      <link>https://vandyliu.com/tags/machine-learning/</link>
+      <pubDate>Sat, 15 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://vandyliu.com/tags/machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Selenium</title>
+      <link>https://vandyliu.com/tags/selenium/</link>
+      <pubDate>Sat, 15 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://vandyliu.com/tags/selenium/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>UBC</title>
+      <link>https://vandyliu.com/tags/ubc/</link>
+      <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://vandyliu.com/tags/ubc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Flask</title>
+      <link>https://vandyliu.com/tags/flask/</link>
+      <pubDate>Sat, 30 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://vandyliu.com/tags/flask/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Google Maps API</title>
+      <link>https://vandyliu.com/tags/google-maps-api/</link>
+      <pubDate>Sat, 30 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://vandyliu.com/tags/google-maps-api/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Microsoft Azure</title>
+      <link>https://vandyliu.com/tags/microsoft-azure/</link>
+      <pubDate>Sat, 30 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://vandyliu.com/tags/microsoft-azure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Twilio</title>
+      <link>https://vandyliu.com/tags/twilio/</link>
+      <pubDate>Sat, 30 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://vandyliu.com/tags/twilio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Heroku</title>
+      <link>https://vandyliu.com/tags/heroku/</link>
+      <pubDate>Mon, 11 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://vandyliu.com/tags/heroku/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MongoDB</title>
+      <link>https://vandyliu.com/tags/mongodb/</link>
+      <pubDate>Mon, 11 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://vandyliu.com/tags/mongodb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>coding</title>
       <link>https://vandyliu.com/tags/coding/</link>
       <pubDate>Sat, 02 Nov 2019 00:00:00 +0000</pubDate>
@@ -89,15 +251,6 @@
     </item>
     
     <item>
-      <title>react</title>
-      <link>https://vandyliu.com/tags/react/</link>
-      <pubDate>Sat, 02 Nov 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://vandyliu.com/tags/react/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>amazon</title>
       <link>https://vandyliu.com/tags/amazon/</link>
       <pubDate>Tue, 20 Aug 2019 00:00:00 +0000</pubDate>
@@ -112,6 +265,33 @@
       <pubDate>Tue, 20 Aug 2019 00:00:00 +0000</pubDate>
       
       <guid>https://vandyliu.com/tags/java/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NodeJS</title>
+      <link>https://vandyliu.com/tags/nodejs/</link>
+      <pubDate>Wed, 10 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://vandyliu.com/tags/nodejs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Firebase</title>
+      <link>https://vandyliu.com/tags/firebase/</link>
+      <pubDate>Sun, 14 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://vandyliu.com/tags/firebase/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hackathon</title>
+      <link>https://vandyliu.com/tags/hackathon/</link>
+      <pubDate>Sun, 14 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://vandyliu.com/tags/hackathon/</guid>
       <description></description>
     </item>
     

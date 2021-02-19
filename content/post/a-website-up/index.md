@@ -21,9 +21,12 @@ Because of my stubbornness, I never wanted to give up on it but I think it is fi
 
 I don't want my small edits of the website to get unnoticed though so here are some pictures of what this website was supposed to look like!
 
-![Home Page](chrome_2019-01-26_19-09-13.png)
+{{< figure src="chrome_2019-01-26_19-09-13.png" width=600rem title="Home Page">}}
 
-![Blog Page](chrome_2019-01-26_19-09-22.png)
+[]()
+
+
+{{< figure src="chrome_2019-01-26_19-09-22.png" width=600rem title="Blog Page">}}
 
 If anyone knows how to solve the problem, here is the [repository link](https://github.com/vandyliu/broken-jekyll-website). I would still love to get it up and running!
 

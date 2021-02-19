@@ -15,9 +15,7 @@ image = "alexademo.jpg"
 
 +++
 
-
-![Hackathon](alexademo.jpg)
-*Our hackathon presentation*
+{{< figure src="alexademo.jpg" width=600rem title="Our hackathon presentation">}}
 
 This past week Amazon flew me and all the other Amazon Future Engineer (AFE) interns out to Seattle for a hackathon and a music festival. This would be the second hackathon I've been to. The first one I did was XD Hacks at UBC. At this hackathon, the challenge was to make an Alexa skill for one of three non-profit organizations. Our team built an Alexa skill for the Boys and Girls Club of Washington. Our skill made it simpler and more efficient to check students out as they left the club. One of the utterances we coded were when a student leaves, that student would tell Alexa that they are going home, how they are going home and with whom they are going home with. The other utterance would be asking if a child left, Alexa would check the database, and then say that the child left or that the child is still there. We used node.js for the "backend" of the Alexa Skill. We hooked it up to a MongoDB database and also created a Web UI that displays all the statuses of the children for a given day. Unfortunately, many teams had similar ideas so it didn't work out so well but I had a lot of fun and learned quite a lot.
 
@@ -27,5 +25,4 @@ That same day, we also went to Capitol Hill Block Party. It was also very fun bu
 
 Thank you Amazon Future Engineers Program for the amazing trip!!!!
 
-![Festival](amazonconcert.jpg)
-*Not a picture person but this is some of the interns at the festival*
+{{< figure src="amazonconcert.jpg" width=600rem title="Festival with some interns">}}

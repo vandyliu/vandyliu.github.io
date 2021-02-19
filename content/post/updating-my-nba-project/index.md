@@ -16,7 +16,7 @@ image = "bsqv2.gif"
 
 +++
 
-![Website In Action](bsqv2.gif)
+{{< figure src="bsqv2.gif" width=800rem title="Website In Action">}}
 
 [Click here to see it!](https://vandyliu.com/boxscorequick)
 

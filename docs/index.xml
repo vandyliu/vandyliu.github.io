@@ -6,7 +6,7 @@
         <description>Recent content on Vandy Liu</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Sun, 10 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://vandyliu.com/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Mon, 11 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://vandyliu.com/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Covid Update</title>
         <link>https://vandyliu.com/p/covid-update/</link>
         <pubDate>Sun, 10 Jan 2021 00:00:00 +0000</pubDate>
@@ -107,18 +107,12 @@ It worked the week after and then soccer is now cancelled due to the coronavirus
         <pubDate>Sat, 02 Nov 2019 00:00:00 +0000</pubDate>
         
         <guid>https://vandyliu.com/p/updating-my-nba-project/</guid>
-        <description>&lt;img src="https://vandyliu.com/p/updating-my-nba-project/bsqv2.gif" alt="Featured image of post Updating my NBA Project" /&gt;&lt;p&gt;&lt;figure style=&#34;flex-grow: 204; flex-basis: 491px&#34;&gt;
-		&lt;a href=&#34;https://vandyliu.com/p/updating-my-nba-project/bsqv2.gif&#34; data-size=&#34;1920x937&#34;&gt;&lt;img src=&#34;https://vandyliu.com/p/updating-my-nba-project/bsqv2.gif&#34;
-				srcset=&#34;https://vandyliu.com/p/updating-my-nba-project/bsqv2_hu8d4eb701e2476e498e764b09908c84b6_4542105_480x0_resize_box.gif 480w, https://vandyliu.com/p/updating-my-nba-project/bsqv2_hu8d4eb701e2476e498e764b09908c84b6_4542105_1024x0_resize_box.gif 1024w&#34;
-				width=&#34;1920&#34;
-				height=&#34;937&#34;
-				loading=&#34;lazy&#34;
-				alt=&#34;Website In Action&#34;&gt;
-		&lt;/a&gt;
-		
-		&lt;figcaption&gt;Website In Action&lt;/figcaption&gt;
-		
-	&lt;/figure&gt;&lt;/p&gt;
+        <description>&lt;img src="https://vandyliu.com/p/updating-my-nba-project/bsqv2.gif" alt="Featured image of post Updating my NBA Project" /&gt;&lt;figure&gt;
+    &lt;img src=&#34;bsqv2.gif&#34; width=&#34;800rem&#34;/&gt; &lt;figcaption&gt;
+            &lt;h4&gt;Website In Action&lt;/h4&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
 &lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://vandyliu.com/boxscorequick&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Click here to see it!&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;If you haven&amp;rsquo;t seen my &lt;a class=&#34;link&#34; href=&#34;../full-stack-nba-project&#34; &gt;other blog post&lt;/a&gt;, make sure to read it first.&lt;/p&gt;
@@ -160,18 +154,12 @@ It worked the week after and then soccer is now cancelled due to the coronavirus
         
         <guid>https://vandyliu.com/p/full-stack-nba-project/</guid>
         <description>&lt;img src="https://vandyliu.com/p/full-stack-nba-project/bsq.gif" alt="Featured image of post Full Stack NBA Project" /&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;../updating-my-nba-project&#34; &gt;November 2, 2019 - UPDATED BLOG POST&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;figure style=&#34;flex-grow: 183; flex-basis: 439px&#34;&gt;
-		&lt;a href=&#34;https://vandyliu.com/p/full-stack-nba-project/bsq.gif&#34; data-size=&#34;1920x1048&#34;&gt;&lt;img src=&#34;https://vandyliu.com/p/full-stack-nba-project/bsq.gif&#34;
-				srcset=&#34;https://vandyliu.com/p/full-stack-nba-project/bsq_hue8185e310d6f1127654e0f8b7be6d9b5_7860257_480x0_resize_box.gif 480w, https://vandyliu.com/p/full-stack-nba-project/bsq_hue8185e310d6f1127654e0f8b7be6d9b5_7860257_1024x0_resize_box.gif 1024w&#34;
-				width=&#34;1920&#34;
-				height=&#34;1048&#34;
-				loading=&#34;lazy&#34;
-				alt=&#34;Website In Action&#34;&gt;
-		&lt;/a&gt;
-		
-		&lt;figcaption&gt;Website In Action&lt;/figcaption&gt;
-		
-	&lt;/figure&gt;&lt;/p&gt;
+&lt;figure&gt;
+    &lt;img src=&#34;bsq.gif&#34; width=&#34;800rem&#34;/&gt; &lt;figcaption&gt;
+            &lt;h4&gt;Website In Action&lt;/h4&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
 &lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://vandyliu.com/boxscorequick&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Click here to see it!&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;BoxScoreQ is a website to keep you updated on NBA games and their box scores quickly. Whenever I come home from work or school, I open up and see what NBA games I should tune in to. However, I would always want to look at the box score first to see if there is a particular game that might interest me like a game where Derrick Rose currently has 41 points or a game where Klay Thompson is 6-7 from 3 point range. There wasn’t a quick place to find all the box scores in one place, which is why I made BoxScoreQ.&lt;/p&gt;
@@ -249,19 +237,12 @@ It worked the week after and then soccer is now cancelled due to the coronavirus
         <pubDate>Tue, 20 Aug 2019 00:00:00 +0000</pubDate>
         
         <guid>https://vandyliu.com/p/end-of-amazon-internship/</guid>
-        <description>&lt;img src="https://vandyliu.com/p/end-of-amazon-internship/amazon2.jpg" alt="Featured image of post End of Amazon Internship" /&gt;&lt;p&gt;&lt;figure style=&#34;flex-grow: 133; flex-basis: 320px&#34;&gt;
-		&lt;a href=&#34;https://vandyliu.com/p/end-of-amazon-internship/amazon2.jpg&#34; data-size=&#34;4032x3024&#34;&gt;&lt;img src=&#34;https://vandyliu.com/p/end-of-amazon-internship/amazon2.jpg&#34;
-				srcset=&#34;https://vandyliu.com/p/end-of-amazon-internship/amazon2_huce00e86a75590a241a92c1ccd861b169_1578978_480x0_resize_q75_box.jpg 480w, https://vandyliu.com/p/end-of-amazon-internship/amazon2_huce00e86a75590a241a92c1ccd861b169_1578978_1024x0_resize_q75_box.jpg 1024w&#34;
-				width=&#34;4032&#34;
-				height=&#34;3024&#34;
-				loading=&#34;lazy&#34;
-				alt=&#34;Amazon&#34;&gt;
-		&lt;/a&gt;
-		
-		&lt;figcaption&gt;Amazon&lt;/figcaption&gt;
-		
-	&lt;/figure&gt;
-&lt;em&gt;Amazon Vancouver&lt;/em&gt;&lt;/p&gt;
+        <description>&lt;img src="https://vandyliu.com/p/end-of-amazon-internship/amazon2.jpg" alt="Featured image of post End of Amazon Internship" /&gt;&lt;figure&gt;
+    &lt;img src=&#34;amazon2.jpg&#34; width=&#34;600rem&#34;/&gt; &lt;figcaption&gt;
+            &lt;h4&gt;Amazon Vancouver&lt;/h4&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
 &lt;p&gt;This past week was my last week as an intern at Amazon. It was an incredible experience, where I learned not only a lot about programming and code, but about the deployment cycle, what work is like, and so many more things.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;What I worked on&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Unfortunately, I cannot go into much detail about what I worked on this Summer. I will say that it was an internal developer tool that is frequently used by engineers. I worked with APIs in Java and connecting them to an AngularJS frontend, so it was a good full-stack experience. The other interns mostly worked on internal developer tools that utilized more AWS services like AWS Lambda, Redshift, Cloudwatch, etc so they gained a lot of experience working with those services, while I mostly gained experience with web development. I also worked on automatically resolving some tickets that have been taking up a lot of engineer time.&lt;/p&gt;
@@ -284,32 +265,18 @@ It worked the week after and then soccer is now cancelled due to the coronavirus
 &lt;li&gt;Going out with the other amazing interns&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;I&amp;rsquo;m incredibly grateful for the opportunity given to me. I learned that I still have a whole lot to learn and I am incredibly excited to take on this challenge. I am also excited to announce I was offered a return offer and am definitely considering going back. I would especially love to go to a new city like Seattle or San Francisco to get a feel of the adult life. I&amp;rsquo;ve never been anywhere outside of BC for an extended period.&lt;/p&gt;
-&lt;p&gt;&lt;figure style=&#34;flex-grow: 133; flex-basis: 320px&#34;&gt;
-		&lt;a href=&#34;https://vandyliu.com/p/end-of-amazon-internship/laptop.jpg&#34; data-size=&#34;4032x3024&#34;&gt;&lt;img src=&#34;https://vandyliu.com/p/end-of-amazon-internship/laptop.jpg&#34;
-				srcset=&#34;https://vandyliu.com/p/end-of-amazon-internship/laptop_huce00e86a75590a241a92c1ccd861b169_1373526_480x0_resize_q75_box.jpg 480w, https://vandyliu.com/p/end-of-amazon-internship/laptop_huce00e86a75590a241a92c1ccd861b169_1373526_1024x0_resize_q75_box.jpg 1024w&#34;
-				width=&#34;4032&#34;
-				height=&#34;3024&#34;
-				loading=&#34;lazy&#34;
-				alt=&#34;Laptop&#34;&gt;
-		&lt;/a&gt;
-		
-		&lt;figcaption&gt;Laptop&lt;/figcaption&gt;
-		
-	&lt;/figure&gt;
-&lt;em&gt;My laptop&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;figure style=&#34;flex-grow: 75; flex-basis: 180px&#34;&gt;
-		&lt;a href=&#34;https://vandyliu.com/p/end-of-amazon-internship/ashley.JPG&#34; data-size=&#34;1080x1440&#34;&gt;&lt;img src=&#34;https://vandyliu.com/p/end-of-amazon-internship/ashley.JPG&#34;
-				srcset=&#34;https://vandyliu.com/p/end-of-amazon-internship/ashley_hu166ca74719803ff5f73b7cf3d2284b44_84642_480x0_resize_q75_box.JPG 480w, https://vandyliu.com/p/end-of-amazon-internship/ashley_hu166ca74719803ff5f73b7cf3d2284b44_84642_1024x0_resize_q75_box.JPG 1024w&#34;
-				width=&#34;1080&#34;
-				height=&#34;1440&#34;
-				loading=&#34;lazy&#34;
-				alt=&#34;My niece&#34;&gt;
-		&lt;/a&gt;
-		
-		&lt;figcaption&gt;My niece&lt;/figcaption&gt;
-		
-	&lt;/figure&gt;
-&lt;strong&gt;Bonus:&lt;/strong&gt; &lt;em&gt;Cute picture of my niece repping Amazon&lt;/em&gt; :heart_eyes:&lt;/p&gt;
+&lt;figure&gt;
+    &lt;img src=&#34;laptop.jpg&#34; width=&#34;400rem&#34;/&gt; &lt;figcaption&gt;
+            &lt;h4&gt;Laptop&lt;/h4&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;figure&gt;
+    &lt;img src=&#34;ashley.JPG&#34; width=&#34;400rem&#34;/&gt; &lt;figcaption&gt;
+            &lt;h4&gt;Cute picture of my niece&lt;/h4&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
 </description>
         </item>
         <item>
@@ -318,36 +285,22 @@ It worked the week after and then soccer is now cancelled due to the coronavirus
         <pubDate>Mon, 22 Jul 2019 00:00:00 +0000</pubDate>
         
         <guid>https://vandyliu.com/p/seattle-trip/</guid>
-        <description>&lt;img src="https://vandyliu.com/p/seattle-trip/alexademo.jpg" alt="Featured image of post Seattle Trip" /&gt;&lt;p&gt;&lt;figure style=&#34;flex-grow: 133; flex-basis: 320px&#34;&gt;
-		&lt;a href=&#34;https://vandyliu.com/p/seattle-trip/alexademo.jpg&#34; data-size=&#34;4032x3024&#34;&gt;&lt;img src=&#34;https://vandyliu.com/p/seattle-trip/alexademo.jpg&#34;
-				srcset=&#34;https://vandyliu.com/p/seattle-trip/alexademo_hud1ec546566d4f16b14c81b9d2f773215_1787638_480x0_resize_q75_box.jpg 480w, https://vandyliu.com/p/seattle-trip/alexademo_hud1ec546566d4f16b14c81b9d2f773215_1787638_1024x0_resize_q75_box.jpg 1024w&#34;
-				width=&#34;4032&#34;
-				height=&#34;3024&#34;
-				loading=&#34;lazy&#34;
-				alt=&#34;Hackathon&#34;&gt;
-		&lt;/a&gt;
-		
-		&lt;figcaption&gt;Hackathon&lt;/figcaption&gt;
-		
-	&lt;/figure&gt;
-&lt;em&gt;Our hackathon presentation&lt;/em&gt;&lt;/p&gt;
+        <description>&lt;img src="https://vandyliu.com/p/seattle-trip/alexademo.jpg" alt="Featured image of post Seattle Trip" /&gt;&lt;figure&gt;
+    &lt;img src=&#34;alexademo.jpg&#34; width=&#34;600rem&#34;/&gt; &lt;figcaption&gt;
+            &lt;h4&gt;Our hackathon presentation&lt;/h4&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
 &lt;p&gt;This past week Amazon flew me and all the other Amazon Future Engineer (AFE) interns out to Seattle for a hackathon and a music festival. This would be the second hackathon I&amp;rsquo;ve been to. The first one I did was XD Hacks at UBC. At this hackathon, the challenge was to make an Alexa skill for one of three non-profit organizations. Our team built an Alexa skill for the Boys and Girls Club of Washington. Our skill made it simpler and more efficient to check students out as they left the club. One of the utterances we coded were when a student leaves, that student would tell Alexa that they are going home, how they are going home and with whom they are going home with. The other utterance would be asking if a child left, Alexa would check the database, and then say that the child left or that the child is still there. We used node.js for the &amp;ldquo;backend&amp;rdquo; of the Alexa Skill. We hooked it up to a MongoDB database and also created a Web UI that displays all the statuses of the children for a given day. Unfortunately, many teams had similar ideas so it didn&amp;rsquo;t work out so well but I had a lot of fun and learned quite a lot.&lt;/p&gt;
 &lt;p&gt;Technical stuff aside, Seattle was pretty cool. There were lots of Amazon employees everywhere! Every other street, I would see a blue badge around someone&amp;rsquo;s neck or by someone&amp;rsquo;s waist. The Amazon Go store was also super cool. On the last day of our trip, we went to Pike Place Market. The food was pretty expensive and it was packed so we didn&amp;rsquo;t do much there but hopefully, I&amp;rsquo;ll be back one day and I can really explore the city.&lt;/p&gt;
 &lt;p&gt;That same day, we also went to Capitol Hill Block Party. It was also very fun but I lost my brand new iPhone XR&amp;hellip; ):&lt;/p&gt;
 &lt;p&gt;Thank you Amazon Future Engineers Program for the amazing trip!!!!&lt;/p&gt;
-&lt;p&gt;&lt;figure style=&#34;flex-grow: 133; flex-basis: 320px&#34;&gt;
-		&lt;a href=&#34;https://vandyliu.com/p/seattle-trip/amazonconcert.jpg&#34; data-size=&#34;2048x1536&#34;&gt;&lt;img src=&#34;https://vandyliu.com/p/seattle-trip/amazonconcert.jpg&#34;
-				srcset=&#34;https://vandyliu.com/p/seattle-trip/amazonconcert_huc09fd31ce9bb786d1041f70ffa59556f_453912_480x0_resize_q75_box.jpg 480w, https://vandyliu.com/p/seattle-trip/amazonconcert_huc09fd31ce9bb786d1041f70ffa59556f_453912_1024x0_resize_q75_box.jpg 1024w&#34;
-				width=&#34;2048&#34;
-				height=&#34;1536&#34;
-				loading=&#34;lazy&#34;
-				alt=&#34;Festival&#34;&gt;
-		&lt;/a&gt;
-		
-		&lt;figcaption&gt;Festival&lt;/figcaption&gt;
-		
-	&lt;/figure&gt;
-&lt;em&gt;Not a picture person but this is some of the interns at the festival&lt;/em&gt;&lt;/p&gt;
+&lt;figure&gt;
+    &lt;img src=&#34;amazonconcert.jpg&#34; width=&#34;600rem&#34;/&gt; &lt;figcaption&gt;
+            &lt;h4&gt;Festival with some interns&lt;/h4&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
 </description>
         </item>
         <item>
@@ -356,19 +309,12 @@ It worked the week after and then soccer is now cancelled due to the coronavirus
         <pubDate>Thu, 20 Jun 2019 00:00:00 +0000</pubDate>
         
         <guid>https://vandyliu.com/p/big-update/</guid>
-        <description>&lt;img src="https://vandyliu.com/p/big-update/amazon.jpg" alt="Featured image of post Big update" /&gt;&lt;p&gt;&lt;figure style=&#34;flex-grow: 177; flex-basis: 426px&#34;&gt;
-		&lt;a href=&#34;https://vandyliu.com/p/big-update/amazon.jpg&#34; data-size=&#34;1920x1080&#34;&gt;&lt;img src=&#34;https://vandyliu.com/p/big-update/amazon.jpg&#34;
-				srcset=&#34;https://vandyliu.com/p/big-update/amazon_hu27f7dc34c9db8fd2b063f3fba6be9864_225252_480x0_resize_q75_box.jpg 480w, https://vandyliu.com/p/big-update/amazon_hu27f7dc34c9db8fd2b063f3fba6be9864_225252_1024x0_resize_q75_box.jpg 1024w&#34;
-				width=&#34;1920&#34;
-				height=&#34;1080&#34;
-				loading=&#34;lazy&#34;
-				alt=&#34;Amazon&#34;&gt;
-		&lt;/a&gt;
-		
-		&lt;figcaption&gt;Amazon&lt;/figcaption&gt;
-		
-	&lt;/figure&gt;
-&lt;em&gt;My desk&lt;/em&gt;&lt;/p&gt;
+        <description>&lt;img src="https://vandyliu.com/p/big-update/amazon.jpg" alt="Featured image of post Big update" /&gt;&lt;figure&gt;
+    &lt;img src=&#34;amazon.jpg&#34; width=&#34;600rem&#34;/&gt; &lt;figcaption&gt;
+            &lt;h4&gt;My desk at Amazon&lt;/h4&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
 &lt;p&gt;Hello everyone that reads this! (Probably around &lt;strong&gt;1&lt;/strong&gt;)&lt;/p&gt;
 &lt;p&gt;I know I haven&amp;rsquo;t updated this in a while. I&amp;rsquo;ve been pretty busy with school and trying to learn new things. Over second semester, I applied to one summer internship after my friend Josh told me to because there were internships specific for freshmen and sophmores. I googled &amp;lsquo;sophmore internships&amp;rsquo; and found one by Amazon. I applied in February and thought nothing of it. I signed up for summer school already and re-applied to be a summer school TA. In March, I got an email that Amazon wanted to schedule an interview with me and I was stoked!!!!!!!!!!!!!!!! I completely forgot I applied but then I started grinding leetcode.&lt;/p&gt;
 &lt;p&gt;I think I went through 50 LeetCode questions in about two weeks. I leetcoded almost 6 hours a day during my reading break. The interview process went pretty smooth for me. I think the questions were a lot easier because of the emphasis on younger undergrads. During the time in between, I dabbled in Python and tried to enjoy my free time before I started working full time.&lt;/p&gt;
@@ -387,30 +333,19 @@ It worked the week after and then soccer is now cancelled due to the coronavirus
     &gt;this repository&lt;/a&gt; and making it my own. Unluckily for me, it never worked out. Unfortunately, I don&amp;rsquo;t have enough knowledge about Ruby or Jekyll to figure out how to solve the issues I was having even though the webpage loaded well locally.&lt;/p&gt;
 &lt;p&gt;Because of my stubbornness, I never wanted to give up on it but I think it is finally the time. I want to work on other stuff so I&amp;rsquo;m just going to work with the default jekyll theme for now and although it is not as aesthetic, it should get the job done.&lt;/p&gt;
 &lt;p&gt;I don&amp;rsquo;t want my small edits of the website to get unnoticed though so here are some pictures of what this website was supposed to look like!&lt;/p&gt;
-&lt;p&gt;&lt;figure style=&#34;flex-grow: 204; flex-basis: 491px&#34;&gt;
-		&lt;a href=&#34;https://vandyliu.com/p/a-website-up/chrome_2019-01-26_19-09-13.png&#34; data-size=&#34;1920x938&#34;&gt;&lt;img src=&#34;https://vandyliu.com/p/a-website-up/chrome_2019-01-26_19-09-13.png&#34;
-				srcset=&#34;https://vandyliu.com/p/a-website-up/chrome_2019-01-26_19-09-13_hu509954822cd231fa6a3e3af97d767b1b_85434_480x0_resize_box_2.png 480w, https://vandyliu.com/p/a-website-up/chrome_2019-01-26_19-09-13_hu509954822cd231fa6a3e3af97d767b1b_85434_1024x0_resize_box_2.png 1024w&#34;
-				width=&#34;1920&#34;
-				height=&#34;938&#34;
-				loading=&#34;lazy&#34;
-				alt=&#34;Home Page&#34;&gt;
-		&lt;/a&gt;
-		
-		&lt;figcaption&gt;Home Page&lt;/figcaption&gt;
-		
-	&lt;/figure&gt;&lt;/p&gt;
-&lt;p&gt;&lt;figure style=&#34;flex-grow: 204; flex-basis: 491px&#34;&gt;
-		&lt;a href=&#34;https://vandyliu.com/p/a-website-up/chrome_2019-01-26_19-09-22.png&#34; data-size=&#34;1920x938&#34;&gt;&lt;img src=&#34;https://vandyliu.com/p/a-website-up/chrome_2019-01-26_19-09-22.png&#34;
-				srcset=&#34;https://vandyliu.com/p/a-website-up/chrome_2019-01-26_19-09-22_huef08012b95f52aaacb879a46bac9cdb1_43083_480x0_resize_box_2.png 480w, https://vandyliu.com/p/a-website-up/chrome_2019-01-26_19-09-22_huef08012b95f52aaacb879a46bac9cdb1_43083_1024x0_resize_box_2.png 1024w&#34;
-				width=&#34;1920&#34;
-				height=&#34;938&#34;
-				loading=&#34;lazy&#34;
-				alt=&#34;Blog Page&#34;&gt;
-		&lt;/a&gt;
-		
-		&lt;figcaption&gt;Blog Page&lt;/figcaption&gt;
-		
-	&lt;/figure&gt;&lt;/p&gt;
+&lt;figure&gt;
+    &lt;img src=&#34;chrome_2019-01-26_19-09-13.png&#34; width=&#34;600rem&#34;/&gt; &lt;figcaption&gt;
+            &lt;h4&gt;Home Page&lt;/h4&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;&#34; &gt;&lt;/a&gt;&lt;/p&gt;
+&lt;figure&gt;
+    &lt;img src=&#34;chrome_2019-01-26_19-09-22.png&#34; width=&#34;600rem&#34;/&gt; &lt;figcaption&gt;
+            &lt;h4&gt;Blog Page&lt;/h4&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
 &lt;p&gt;If anyone knows how to solve the problem, here is the &lt;a class=&#34;link&#34; href=&#34;https://github.com/vandyliu/broken-jekyll-website&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;repository link&lt;/a&gt;. I would still love to get it up and running!&lt;/p&gt;
 &lt;p&gt;Update (Jan 10, 2021):
@@ -430,33 +365,21 @@ New website now ahahahah. Old one can be found on GitHub somewhere.&lt;/p&gt;
 &lt;p&gt;Another problem, I&amp;rsquo;ve always had is what to make and what language to use. My thoughts tend to go like this: &amp;ldquo;I want to use javascript because it seems so practical putting up your projects on a webpage, but I don&amp;rsquo;t know javascript and it seems hard to learn. I want to create some machine-learning apps (who doesn&amp;rsquo;t though), but I know almost nothing about machine learning and I still want to focus most of my time exceling at school&amp;rdquo;. I know a lot of people also have the problem of having so many equally-cool ideas, so you start one, and it&amp;rsquo;s super hard, so you start another, and it is also super hard and the cycle continues. This leads to almost nothing created and sadness.&lt;/p&gt;
 &lt;p&gt;So right now, I&amp;rsquo;m going to focus on creating small projects that use what I know or what I am comfortable with learning. Then hopefully I start to find my niche and I&amp;rsquo;ll go on from there.&lt;/p&gt;
 &lt;p&gt;The first project I started working on over the (very short) winter break was a simple game of Pong using the processing application in Java. I still have a lot (&lt;strong&gt;A WHOLE LOT&lt;/strong&gt;) to do before I even want to show people, but it is in the works.&lt;/p&gt;
-&lt;p&gt;&lt;figure style=&#34;flex-grow: 187; flex-basis: 450px&#34;&gt;
-		&lt;a href=&#34;https://vandyliu.com/p/finally-coding-in-my-free-time/java_2019-01-06_13-09-18.png&#34; data-size=&#34;802x427&#34;&gt;&lt;img src=&#34;https://vandyliu.com/p/finally-coding-in-my-free-time/java_2019-01-06_13-09-18.png&#34;
-				srcset=&#34;https://vandyliu.com/p/finally-coding-in-my-free-time/java_2019-01-06_13-09-18_hu5c7fb5dc5e94e0a735769d7fcf3b4d73_6256_480x0_resize_box_2.png 480w, https://vandyliu.com/p/finally-coding-in-my-free-time/java_2019-01-06_13-09-18_hu5c7fb5dc5e94e0a735769d7fcf3b4d73_6256_1024x0_resize_box_2.png 1024w&#34;
-				width=&#34;802&#34;
-				height=&#34;427&#34;
-				loading=&#34;lazy&#34;
-				alt=&#34;Pong&#34;&gt;
-		&lt;/a&gt;
-		
-		&lt;figcaption&gt;Pong&lt;/figcaption&gt;
-		
-	&lt;/figure&gt;&lt;/p&gt;
+&lt;figure&gt;
+    &lt;img src=&#34;java_2019-01-06_13-09-18.png&#34; width=&#34;600rem&#34;/&gt; &lt;figcaption&gt;
+            &lt;h4&gt;Pong&lt;/h4&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
 &lt;p&gt;The second project I started today after finishing almost all my homework yesterday solely to build something. It is a discord bot that helps you set reminders. My inspiration came from a &lt;a class=&#34;link&#34; href=&#34;https://www.youtube.com/watch?feature=youtu.be&amp;amp;v=TaB2UDdX5Bw&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;youtube tutorial on building a simple discord bot&lt;/a&gt; and I decided I could definitely build off of that. I have no experience in Node.js or javascript but I thought it would be nice to finally play around with those tools today. I used a lot of &lt;a class=&#34;link&#34; href=&#34;https://www.w3schools.com/js&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;w3schools&lt;/a&gt; whenever I needed help with javascript and eventually coded something that worked! It is really simple and the code is &lt;strong&gt;very&lt;/strong&gt; messy but it&amp;rsquo;s a start. I do plan on making the code a little nicer and maybe adding a few more commands.&lt;/p&gt;
-&lt;p&gt;&lt;figure style=&#34;flex-grow: 113; flex-basis: 272px&#34;&gt;
-		&lt;a href=&#34;https://vandyliu.com/p/finally-coding-in-my-free-time/Discord_2019-01-08_22-00-55.png&#34; data-size=&#34;530x466&#34;&gt;&lt;img src=&#34;https://vandyliu.com/p/finally-coding-in-my-free-time/Discord_2019-01-08_22-00-55.png&#34;
-				srcset=&#34;https://vandyliu.com/p/finally-coding-in-my-free-time/Discord_2019-01-08_22-00-55_hu18d86468359e774299b0d754d50a831a_37480_480x0_resize_box_2.png 480w, https://vandyliu.com/p/finally-coding-in-my-free-time/Discord_2019-01-08_22-00-55_hu18d86468359e774299b0d754d50a831a_37480_1024x0_resize_box_2.png 1024w&#34;
-				width=&#34;530&#34;
-				height=&#34;466&#34;
-				loading=&#34;lazy&#34;
-				alt=&#34;Reminder Bot&#34;&gt;
-		&lt;/a&gt;
-		
-		&lt;figcaption&gt;Reminder Bot&lt;/figcaption&gt;
-		
-	&lt;/figure&gt;&lt;/p&gt;
+&lt;figure&gt;
+    &lt;img src=&#34;Discord_2019-01-08_22-00-55.png&#34; width=&#34;600rem&#34;/&gt; &lt;figcaption&gt;
+            &lt;h4&gt;Reminder Bot&lt;/h4&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
 &lt;p&gt;Thanks for reading!&lt;/p&gt;
 </description>
         </item>

@@ -30,11 +30,10 @@ So right now, I'm going to focus on creating small projects that use what I know
 
 The first project I started working on over the (very short) winter break was a simple game of Pong using the processing application in Java. I still have a lot (**A WHOLE LOT**) to do before I even want to show people, but it is in the works.
 
-![Pong](java_2019-01-06_13-09-18.png)
-
+{{< figure src="java_2019-01-06_13-09-18.png" width=600rem title="Pong">}}
 
 The second project I started today after finishing almost all my homework yesterday solely to build something. It is a discord bot that helps you set reminders. My inspiration came from a [youtube tutorial on building a simple discord bot](https://www.youtube.com/watch?feature=youtu.be&v=TaB2UDdX5Bw) and I decided I could definitely build off of that. I have no experience in Node.js or javascript but I thought it would be nice to finally play around with those tools today. I used a lot of [w3schools](https://www.w3schools.com/js) whenever I needed help with javascript and eventually coded something that worked! It is really simple and the code is **very** messy but it's a start. I do plan on making the code a little nicer and maybe adding a few more commands. 
 
-![Reminder Bot](Discord_2019-01-08_22-00-55.png)
+{{< figure src="Discord_2019-01-08_22-00-55.png" width=600rem title="Reminder Bot">}}
 
 Thanks for reading!

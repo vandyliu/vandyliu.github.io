@@ -14,8 +14,7 @@ image = "amazon.jpg"
 
 +++
 
-![Amazon](amazon.jpg)
-*My desk*
+{{< figure src="amazon.jpg" width=600rem title="My desk at Amazon">}}
 
 Hello everyone that reads this! (Probably around **1**)
 

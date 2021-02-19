@@ -17,6 +17,16 @@
     </item>
     
     <item>
+      <title>Device Simulator Express (Microsoft internship)</title>
+      <link>https://vandyliu.com/proj/device-simulator-express-microsoft-internship/</link>
+      <pubDate>Sun, 12 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://vandyliu.com/proj/device-simulator-express-microsoft-internship/</guid>
+      <description>Device Simulator Express   Check it out here
+This was an open-source project I worked on while interning at Microsoft. With 3 other interns, we contributed to an existing project that was started by a previous Microsoft garage cohort. We added two new microcontrollers (BBC micro:bit and Adafruit CLUE) as well as enhanced the application quite a bit by adding new features such as virtual environment support, new templates and more.</description>
+    </item>
+    
+    <item>
       <title>UBC Course Auto Registrar</title>
       <link>https://vandyliu.com/proj/ubc-course-auto-registrar/</link>
       <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>

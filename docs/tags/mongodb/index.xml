@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MongoDB on Vandy Liu</title>
+    <link>https://vandyliu.com/tags/mongodb/</link>
+    <description>Recent content in MongoDB on Vandy Liu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 11 Nov 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://vandyliu.com/tags/mongodb/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Box Score Quick</title>
+      <link>https://vandyliu.com/proj/box-score-quick/</link>
+      <pubDate>Mon, 11 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://vandyliu.com/proj/box-score-quick/</guid>
+      <description>Box Score Quick   Languages/Technologies: React, Python, Flask, Heroku, MongoDB (previously)
+For NBA fanatics, who want to watch interesting games or just get real-time box scores quick and easy. All box scores for every game all on a single page. Read more here and here for an update.
+Check it out here.
+Github (frontend)
+Github (backend)</description>
+    </item>
+    
+    <item>
+      <title>Check Out Alexa Skill (Hackathon)</title>
+      <link>https://vandyliu.com/proj/check-out-alexa-skill-hackathon/</link>
+      <pubDate>Wed, 10 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://vandyliu.com/proj/check-out-alexa-skill-hackathon/</guid>
+      <description>Amazon Alexa   Languages/Technologies: Node.js, AWS Lambda, MongoDB
+An Alexa skill designed to make keeping track of attedance for after-school programs easier. Parents can quickly check their child out with their voice. The supervisors can also see who is still here and who has left with a web UI designed with React. The application was made to help a Boys and Kids club in the Seattle area. We used a MongoDB database and AWS Lambda to run our Alexa skill.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>School on Vandy Liu</title>
+    <link>https://vandyliu.com/tags/school/</link>
+    <description>Recent content in School on Vandy Liu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 27 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://vandyliu.com/tags/school/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>VALORANT SQL School Project</title>
+      <link>https://vandyliu.com/proj/valorant-sql-school-project/</link>
+      <pubDate>Fri, 27 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://vandyliu.com/proj/valorant-sql-school-project/</guid>
+      <description>Website   Our intro to relational database course has a capstone project where you make an application that has a bunch of SQL commands. With two others, we created a simple website which is supposed to be used to display VALORANT stats such as match history and team information. VALORANT is a multiplayer first person shooter game made by Riot Games that is very popular currently (2020).</description>
+    </item>
+    
+    <item>
+      <title>UBC Course Auto Registrar</title>
+      <link>https://vandyliu.com/proj/ubc-course-auto-registrar/</link>
+      <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://vandyliu.com/proj/ubc-course-auto-registrar/</guid>
+      <description>UBC classroom   Using Python, Selenium and BeautifulSoup4, I was able to create a bot that automatically registered me in UBC courses once a spot was available. There are other services similar to this one out there, but I wanted to be a little different. Almost all the other services available (paid and free) only notify you once a spot is available. I wanted to actually automatically register you in it.</description>
+    </item>
+    
+  </channel>
+</rss>

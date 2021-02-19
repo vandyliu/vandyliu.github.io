@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>wix on Vandy Liu</title>
+    <link>https://vandyliu.com/tags/wix/</link>
+    <description>Recent content in wix on Vandy Liu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 24 Aug 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://vandyliu.com/tags/wix/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Biocad Dental Company Website</title>
+      <link>https://vandyliu.com/proj/biocad-dental-company-website/</link>
+      <pubDate>Mon, 24 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://vandyliu.com/proj/biocad-dental-company-website/</guid>
+      <description>Website picture   With a friend, we worked together to recreate biocaddental.ca using Wix. I also did a little bit of coding in Google Apps Script. In particular, I automated how pictures in a form are organized in Google Drive for ease of access. I also learned a little bit about DNS, CNames and MX records.</description>
+    </item>
+    
+  </channel>
+</rss>

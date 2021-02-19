@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>JavaScript on Vandy Liu</title>
+    <link>https://vandyliu.com/tags/javascript/</link>
+    <description>Recent content in JavaScript on Vandy Liu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 27 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://vandyliu.com/tags/javascript/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>VALORANT SQL School Project</title>
+      <link>https://vandyliu.com/proj/valorant-sql-school-project/</link>
+      <pubDate>Fri, 27 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://vandyliu.com/proj/valorant-sql-school-project/</guid>
+      <description>Website   Our intro to relational database course has a capstone project where you make an application that has a bunch of SQL commands. With two others, we created a simple website which is supposed to be used to display VALORANT stats such as match history and team information. VALORANT is a multiplayer first person shooter game made by Riot Games that is very popular currently (2020).</description>
+    </item>
+    
+    <item>
+      <title>Box Score Quick</title>
+      <link>https://vandyliu.com/proj/box-score-quick/</link>
+      <pubDate>Mon, 11 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://vandyliu.com/proj/box-score-quick/</guid>
+      <description>Box Score Quick   Languages/Technologies: React, Python, Flask, Heroku, MongoDB (previously)
+For NBA fanatics, who want to watch interesting games or just get real-time box scores quick and easy. All box scores for every game all on a single page. Read more here and here for an update.
+Check it out here.
+Github (frontend)
+Github (backend)</description>
+    </item>
+    
+    <item>
+      <title>mysoil.space (Hackathon)</title>
+      <link>https://vandyliu.com/proj/mysoil.space-hackathon/</link>
+      <pubDate>Sun, 14 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://vandyliu.com/proj/mysoil.space-hackathon/</guid>
+      <description>MySoil.space App   Languages/Technologies: React, Firebase, Microsoft Weather API
+A mobile web application to make community gardening easier. Join a community garden and keep track your crops and plants. Using the Microsoft Weather API and our Arduino sensor that detects soil moisture, an algorithm determines if a plant needs to be watered along with other tasks and reminders.
+Story: This was my first hackathon event (XDHacks) with a couple friends.</description>
+    </item>
+    
+    <item>
+      <title>Priority Task Manager</title>
+      <link>https://vandyliu.com/proj/priority-task-manager/</link>
+      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://vandyliu.com/proj/priority-task-manager/</guid>
+      <description>Task List   Languages/Technologies: Javascript, Firebase
+Users can log in using their Google ID, and keep track of tasks that they have to complete. Give each task properties such as time it will take, difficulty and due date and sort through your tasks based on the property selected.
+This was one of my first ever projects! It is kind of lame looking back on it but I want to show it just to show what a first project is like.</description>
+    </item>
+    
+    <item>
+      <title>Discord Reminder Bot</title>
+      <link>https://vandyliu.com/proj/discord-reminder-bot/</link>
+      <pubDate>Fri, 25 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://vandyliu.com/proj/discord-reminder-bot/</guid>
+      <description>Discord bot   Languages/Technologies: Node.js
+A simple Discord bot made with the discord.js node module. Use it to remind yourself of things, while you&amp;rsquo;re chilling in Discord or playing video games. Read more here.
+Github</description>
+    </item>
+    
+  </channel>
+</rss>

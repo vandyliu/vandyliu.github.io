@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Selenium on Vandy Liu</title>
+    <link>https://vandyliu.com/tags/selenium/</link>
+    <description>Recent content in Selenium on Vandy Liu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 15 Feb 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://vandyliu.com/tags/selenium/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>WhatsApp Soccer Pick Up Game Bot</title>
+      <link>https://vandyliu.com/proj/whatsapp-soccer-pick-up-game-bot/</link>
+      <pubDate>Sat, 15 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://vandyliu.com/proj/whatsapp-soccer-pick-up-game-bot/</guid>
+      <description>The gist of this project came from the fact that I missed the registration time to be a committed member for Thursday indoor soccer games. There are 15 spots, first reserved for committed members and then if they are not all filled, some drop in players are selected to join. To become selected for drop-in, you have to respond to a specific text message that the organizer sends out the day before.</description>
+    </item>
+    
+    <item>
+      <title>UBC Course Auto Registrar</title>
+      <link>https://vandyliu.com/proj/ubc-course-auto-registrar/</link>
+      <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://vandyliu.com/proj/ubc-course-auto-registrar/</guid>
+      <description>UBC classroom   Using Python, Selenium and BeautifulSoup4, I was able to create a bot that automatically registered me in UBC courses once a spot was available. There are other services similar to this one out there, but I wanted to be a little different. Almost all the other services available (paid and free) only notify you once a spot is available. I wanted to actually automatically register you in it.</description>
+    </item>
+    
+  </channel>
+</rss>

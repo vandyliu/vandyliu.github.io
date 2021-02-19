@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Google Maps API on Vandy Liu</title>
+    <link>https://vandyliu.com/tags/google-maps-api/</link>
+    <description>Recent content in Google Maps API on Vandy Liu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 30 Nov 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://vandyliu.com/tags/google-maps-api/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Direction Message (DM) Us (Hackathon)</title>
+      <link>https://vandyliu.com/proj/direction-message-dm-us-hackathon/</link>
+      <pubDate>Sat, 30 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://vandyliu.com/proj/direction-message-dm-us-hackathon/</guid>
+      <description>DM us (app)   Languages/Technologies: Python, Flask, Microsoft Azure, Twilio API, Google Maps API
+A Flask app hosted on Azure that communicates through SMS messages to provide users with real-time transit information and directions, which is usually only available with data. Our focus was to help people that cannot afford data get access to transit information because everyone should know how to get home regardless of financial status.</description>
+    </item>
+    
+  </channel>
+</rss>
